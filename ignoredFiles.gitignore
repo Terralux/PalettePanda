@@ -1,0 +1,60 @@
+# =============== 
+# Unity generated
+# ===============
+Temp/
+/Library/
+/Library_ANDROID/
+/Library_PC/
+/Library_IOS/
+/Assets/Scenes/*/LightmapSnapshot.asset*
+/Assets/Scenes/*/Lightmap-*_comp_*.exr*
+/Assets/Scenes/*/NavMesh.asset*
+/Assets/Scenes/*/ReflectionProbe-*.asset*
+/Assets/Scenes/*/ReflectionProbe-*.exr*
+/Assets/Scenes/*/SkyboxProbe-*.asset*
+/Assets/Scenes/*/SkyboxProbe-*.exr*
+/Builds/Android/*
+/Builds/IOS/*
+/Builds/Mac/*
+/Builds/PC/*
+/Builds/Prototype/*
+/Assets/Scenes/PersonalWorkspace/*
+/Assets/Imports/PersonalWorkspace/*
+
+# =====================================
+# Wwise-Unity Integration generated
+# =====================================
+/Assets/Wwise/Editor/ProjectData/*
+/WwiseProject/*
+
+# =====================================
+# Visual Studio / MonoDevelop generated
+# =====================================
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============
+# OS generated
+# ============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Thumbs.db.meta
+
+# ============
+# Whitelists
+# ============
+!.keep
