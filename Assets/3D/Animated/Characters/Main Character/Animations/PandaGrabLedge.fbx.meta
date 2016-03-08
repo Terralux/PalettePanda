@@ -1,0 +1,3517 @@
+fileFormatVersion: 2
+guid: f2ef4666d369a2144ba1b9171aefede4
+timeCreated: 1456850027
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Backpack
+    100004: Backpack 1
+    100006: Backpack.001
+    100008: Backpack.001_end
+    100010: Backpack.001_L
+    100012: Backpack.001_L_end
+    100014: Backpack.001_R
+    100016: Backpack.001_R_end
+    100018: BackpackLid
+    100020: BackpackLidLower
+    100022: BackpackLidTip
+    100024: BackpackLidTip_end
+    100026: BackpackLidUpper
+    100028: BackpackStretchBottom1_L
+    100030: BackpackStretchBottom1_L_end
+    100032: BackpackStretchBottom1_R
+    100034: BackpackStretchBottom1_R_end
+    100036: BackpackStretchBottom2_L
+    100038: BackpackStretchBottom2_R
+    100040: BackpackStretchBottom3_L
+    100042: BackpackStretchBottom3_R
+    100044: BackpackStretchBottom4_L
+    100046: BackpackStretchBottom4_R
+    100048: BackpackStretchIK_L
+    100050: BackpackStretchIK_L_end
+    100052: BackpackStretchIK_R
+    100054: BackpackStretchIK_R_end
+    100056: BackpackStretchIKBottom1_L
+    100058: BackpackStretchIKBottom1_L_end
+    100060: BackpackStretchIKBottom1_R
+    100062: BackpackStretchIKBottom1_R_end
+    100064: BackpackStretchIKBottom2_L
+    100066: BackpackStretchIKBottom2_R
+    100068: BackpackStretchIKBottom3_L
+    100070: BackpackStretchIKBottom3_R
+    100072: BackpackStretchIKBottom4_L
+    100074: BackpackStretchIKBottom4_R
+    100076: BackpackStretchIKTop1_L
+    100078: BackpackStretchIKTop1_L_end
+    100080: BackpackStretchIKTop1_R
+    100082: BackpackStretchIKTop1_R_end
+    100084: BackpackStretchIKTop2_L
+    100086: BackpackStretchIKTop2_R
+    100088: BackpackStretchIKTop3_L
+    100090: BackpackStretchIKTop3_R
+    100092: BackpackStretchIKTop4_L
+    100094: BackpackStretchIKTop4_R
+    100096: BackpackStretchTop1_L
+    100098: BackpackStretchTop1_L_end
+    100100: BackpackStretchTop1_R
+    100102: BackpackStretchTop1_R_end
+    100104: BackpackStretchTop2_L
+    100106: BackpackStretchTop2_R
+    100108: BackpackStretchTop3_L
+    100110: BackpackStretchTop3_R
+    100112: BackpackStretchTop4_L
+    100114: BackpackStretchTop4_R
+    100116: Bone
+    100118: Chest
+    100120: Ear_L
+    100122: Ear_R
+    100124: EarTop_L
+    100126: EarTop_L_end
+    100128: EarTop_R
+    100130: EarTop_R_end
+    100132: Face
+    100134: Foot_L
+    100136: Foot_R
+    100138: FootTip_L
+    100140: FootTip_L_end
+    100142: FootTip_R
+    100144: FootTip_R_end
+    100146: HandMiddle_L
+    100148: HandMiddle_R
+    100150: HandStart_L
+    100152: HandStart_R
+    100154: HandTip_L
+    100156: HandTip_L_end
+    100158: HandTip_R
+    100160: HandTip_R_end
+    100162: Hat
+    100164: Hat 1
+    100166: Hat_end
+    100168: Head
+    100170: Hip
+    100172: Hip_L
+    100174: Hip_R
+    100176: LowerArm_L
+    100178: LowerArm_R
+    100180: LowerLeg_L
+    100182: LowerLeg_R
+    100184: LowerLegIK_L
+    100186: LowerLegIK_L_end
+    100188: LowerLegIK_R
+    100190: LowerLegIK_R_end
+    100192: LowerMouth
+    100194: LowerMouth_end
+    100196: Mouth_L
+    100198: Mouth_L_end
+    100200: Mouth_R
+    100202: Mouth_R_end
+    100204: Neck
+    100206: Nose
+    100208: Nose_end
+    100210: Panda
+    100212: //RootNode
+    100214: Shoulder_L
+    100216: Shoulder_R
+    100218: Stomach
+    100220: Stomach_end
+    100222: Tail
+    100224: TailTip
+    100226: TailTip_end
+    100228: UpperArm_L
+    100230: UpperArm_R
+    100232: UpperLeg_L
+    100234: UpperLeg_R
+    100236: UpperMouth
+    400000: Armature
+    400002: Backpack
+    400004: Backpack 1
+    400006: Backpack.001
+    400008: Backpack.001_end
+    400010: Backpack.001_L
+    400012: Backpack.001_L_end
+    400014: Backpack.001_R
+    400016: Backpack.001_R_end
+    400018: BackpackLid
+    400020: BackpackLidLower
+    400022: BackpackLidTip
+    400024: BackpackLidTip_end
+    400026: BackpackLidUpper
+    400028: BackpackStretchBottom1_L
+    400030: BackpackStretchBottom1_L_end
+    400032: BackpackStretchBottom1_R
+    400034: BackpackStretchBottom1_R_end
+    400036: BackpackStretchBottom2_L
+    400038: BackpackStretchBottom2_R
+    400040: BackpackStretchBottom3_L
+    400042: BackpackStretchBottom3_R
+    400044: BackpackStretchBottom4_L
+    400046: BackpackStretchBottom4_R
+    400048: BackpackStretchIK_L
+    400050: BackpackStretchIK_L_end
+    400052: BackpackStretchIK_R
+    400054: BackpackStretchIK_R_end
+    400056: BackpackStretchIKBottom1_L
+    400058: BackpackStretchIKBottom1_L_end
+    400060: BackpackStretchIKBottom1_R
+    400062: BackpackStretchIKBottom1_R_end
+    400064: BackpackStretchIKBottom2_L
+    400066: BackpackStretchIKBottom2_R
+    400068: BackpackStretchIKBottom3_L
+    400070: BackpackStretchIKBottom3_R
+    400072: BackpackStretchIKBottom4_L
+    400074: BackpackStretchIKBottom4_R
+    400076: BackpackStretchIKTop1_L
+    400078: BackpackStretchIKTop1_L_end
+    400080: BackpackStretchIKTop1_R
+    400082: BackpackStretchIKTop1_R_end
+    400084: BackpackStretchIKTop2_L
+    400086: BackpackStretchIKTop2_R
+    400088: BackpackStretchIKTop3_L
+    400090: BackpackStretchIKTop3_R
+    400092: BackpackStretchIKTop4_L
+    400094: BackpackStretchIKTop4_R
+    400096: BackpackStretchTop1_L
+    400098: BackpackStretchTop1_L_end
+    400100: BackpackStretchTop1_R
+    400102: BackpackStretchTop1_R_end
+    400104: BackpackStretchTop2_L
+    400106: BackpackStretchTop2_R
+    400108: BackpackStretchTop3_L
+    400110: BackpackStretchTop3_R
+    400112: BackpackStretchTop4_L
+    400114: BackpackStretchTop4_R
+    400116: Bone
+    400118: Chest
+    400120: Ear_L
+    400122: Ear_R
+    400124: EarTop_L
+    400126: EarTop_L_end
+    400128: EarTop_R
+    400130: EarTop_R_end
+    400132: Face
+    400134: Foot_L
+    400136: Foot_R
+    400138: FootTip_L
+    400140: FootTip_L_end
+    400142: FootTip_R
+    400144: FootTip_R_end
+    400146: HandMiddle_L
+    400148: HandMiddle_R
+    400150: HandStart_L
+    400152: HandStart_R
+    400154: HandTip_L
+    400156: HandTip_L_end
+    400158: HandTip_R
+    400160: HandTip_R_end
+    400162: Hat
+    400164: Hat 1
+    400166: Hat_end
+    400168: Head
+    400170: Hip
+    400172: Hip_L
+    400174: Hip_R
+    400176: LowerArm_L
+    400178: LowerArm_R
+    400180: LowerLeg_L
+    400182: LowerLeg_R
+    400184: LowerLegIK_L
+    400186: LowerLegIK_L_end
+    400188: LowerLegIK_R
+    400190: LowerLegIK_R_end
+    400192: LowerMouth
+    400194: LowerMouth_end
+    400196: Mouth_L
+    400198: Mouth_L_end
+    400200: Mouth_R
+    400202: Mouth_R_end
+    400204: Neck
+    400206: Nose
+    400208: Nose_end
+    400210: Panda
+    400212: //RootNode
+    400214: Shoulder_L
+    400216: Shoulder_R
+    400218: Stomach
+    400220: Stomach_end
+    400222: Tail
+    400224: TailTip
+    400226: TailTip_end
+    400228: UpperArm_L
+    400230: UpperArm_R
+    400232: UpperLeg_L
+    400234: UpperLeg_R
+    400236: UpperMouth
+    4300000: Backpack
+    4300002: Hat
+    4300004: Panda
+    7400000: GrabLedge
+    7400002: Armature|Action
+    7400004: Armature|Action.001
+    7400006: Armature|CubeAction
+    7400008: Armature|CubeAction.001
+    7400010: Armature|CubeAction.002
+    7400012: Armature|Falling
+    7400014: Armature|GrabLedge
+    7400016: Armature|RunCycle
+    9500000: //RootNode
+    13700000: Backpack
+    13700002: Hat
+    13700004: Panda
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nInbetween bone default rotation found in this file
+      is different from the one found in the source avatar:\n\t'Hip_R' : rotation
+      error = 11.201074 deg\n\nClip 'Falling' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'HandStart_L' has scale animation that will be discarded.\n\t'HandStart_R'
+      has scale animation that will be discarded.\n\t'Hip_L' has translation animation
+      that will be discarded.\n\t'Hip_L' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'Hip_R' has translation animation
+      that will be discarded.\n\t'Hip_R' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\nClip 'Armature|Action' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'Hip_L' has translation animation
+      that will be discarded.\n\t'Hip_L' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'Hip_R' has translation animation
+      that will be discarded.\n\t'Hip_R' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\nClip 'Armature|Action.001' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'Face' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Armature|CubeAction.002' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Hip_L'
+      has translation animation that will be discarded.\n\t'Hip_L' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'Hip_R' has
+      translation animation that will be discarded.\n\t'Hip_R' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\nClip 'Armature|Falling'
+      has import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'Hip_L' has translation
+      animation that will be discarded.\n\t'Hip_L' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'Hip_R' has translation
+      animation that will be discarded.\n\t'Hip_R' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\nClip 'Armature|GrabLedge'
+      has import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'HandStart_L' has
+      scale animation that will be discarded.\n\t'HandStart_R' has scale animation
+      that will be discarded.\n\t'Hip_L' has translation animation that will be discarded.\n\t'Hip_L'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Hip_R'
+      has translation animation that will be discarded.\n\t'Hip_R' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: GrabLedge
+      takeName: Falling
+      firstFrame: 10
+      lastFrame: 38
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Hip
+        weight: 1
+      - path: Armature/Bone/Hip/Chest
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001/Backpack.001_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_L/Backpack.001_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_R/Backpack.001_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower/BackpackLidTip
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower/BackpackLidTip/BackpackLidTip_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L/BackpackStretchBottom1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L/BackpackStretchBottom1_L/BackpackStretchBottom1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R/BackpackStretchBottom1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R/BackpackStretchBottom1_R/BackpackStretchBottom1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_L/BackpackStretchIK_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_R/BackpackStretchIK_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L/BackpackStretchIKBottom1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L/BackpackStretchIKBottom1_L/BackpackStretchIKBottom1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R/BackpackStretchIKBottom1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R/BackpackStretchIKBottom1_R/BackpackStretchIKBottom1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L/BackpackStretchIKTop1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L/BackpackStretchIKTop1_L/BackpackStretchIKTop1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R/BackpackStretchIKTop1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R/BackpackStretchIKTop1_R/BackpackStretchIKTop1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L/BackpackStretchTop1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L/BackpackStretchTop1_L/BackpackStretchTop1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R/BackpackStretchTop1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R/BackpackStretchTop1_R/BackpackStretchTop1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L/EarTop_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L/EarTop_L/EarTop_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R/EarTop_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R/EarTop_R/EarTop_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/LowerMouth
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/LowerMouth/LowerMouth_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_L/Mouth_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_R/Mouth_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth/Nose
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth/Nose/Nose_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Hat 1
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Hat 1/Hat_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L/HandTip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L/HandTip_L/HandTip_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R/HandTip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R/HandTip_R/HandTip_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L/FootTip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L/FootTip_L/FootTip_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R/FootTip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R/FootTip_R/FootTip_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Stomach
+        weight: 1
+      - path: Armature/Bone/Hip/Stomach/Stomach_end
+        weight: 1
+      - path: Armature/Bone/Hip/Tail
+        weight: 1
+      - path: Armature/Bone/Hip/Tail/TailTip
+        weight: 1
+      - path: Armature/Bone/Hip/Tail/TailTip/TailTip_end
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_L
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_L/LowerLegIK_L_end
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_R
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_R/LowerLegIK_R_end
+        weight: 1
+      - path: Backpack
+        weight: 1
+      - path: Hat
+        weight: 1
+      - path: Panda
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|Action
+      takeName: Armature|Action
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Hip
+        weight: 1
+      - path: Armature/Bone/Hip/Chest
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001/Backpack.001_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_L/Backpack.001_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_R/Backpack.001_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower/BackpackLidTip
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower/BackpackLidTip/BackpackLidTip_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L/BackpackStretchBottom1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L/BackpackStretchBottom1_L/BackpackStretchBottom1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R/BackpackStretchBottom1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R/BackpackStretchBottom1_R/BackpackStretchBottom1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_L/BackpackStretchIK_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_R/BackpackStretchIK_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L/BackpackStretchIKBottom1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L/BackpackStretchIKBottom1_L/BackpackStretchIKBottom1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R/BackpackStretchIKBottom1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R/BackpackStretchIKBottom1_R/BackpackStretchIKBottom1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L/BackpackStretchIKTop1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L/BackpackStretchIKTop1_L/BackpackStretchIKTop1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R/BackpackStretchIKTop1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R/BackpackStretchIKTop1_R/BackpackStretchIKTop1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L/BackpackStretchTop1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L/BackpackStretchTop1_L/BackpackStretchTop1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R/BackpackStretchTop1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R/BackpackStretchTop1_R/BackpackStretchTop1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L/EarTop_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L/EarTop_L/EarTop_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R/EarTop_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R/EarTop_R/EarTop_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/LowerMouth
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/LowerMouth/LowerMouth_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_L/Mouth_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_R/Mouth_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth/Nose
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth/Nose/Nose_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Hat 1
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Hat 1/Hat_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L/HandTip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L/HandTip_L/HandTip_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R/HandTip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R/HandTip_R/HandTip_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L/FootTip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L/FootTip_L/FootTip_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R/FootTip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R/FootTip_R/FootTip_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Stomach
+        weight: 1
+      - path: Armature/Bone/Hip/Stomach/Stomach_end
+        weight: 1
+      - path: Armature/Bone/Hip/Tail
+        weight: 1
+      - path: Armature/Bone/Hip/Tail/TailTip
+        weight: 1
+      - path: Armature/Bone/Hip/Tail/TailTip/TailTip_end
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_L
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_L/LowerLegIK_L_end
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_R
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_R/LowerLegIK_R_end
+        weight: 1
+      - path: Backpack
+        weight: 1
+      - path: Hat
+        weight: 1
+      - path: Panda
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|Action.001
+      takeName: Armature|Action.001
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Hip
+        weight: 1
+      - path: Armature/Bone/Hip/Chest
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001/Backpack.001_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_L/Backpack.001_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_R/Backpack.001_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower/BackpackLidTip
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower/BackpackLidTip/BackpackLidTip_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L/BackpackStretchBottom1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L/BackpackStretchBottom1_L/BackpackStretchBottom1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R/BackpackStretchBottom1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R/BackpackStretchBottom1_R/BackpackStretchBottom1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_L/BackpackStretchIK_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_R/BackpackStretchIK_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L/BackpackStretchIKBottom1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L/BackpackStretchIKBottom1_L/BackpackStretchIKBottom1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R/BackpackStretchIKBottom1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R/BackpackStretchIKBottom1_R/BackpackStretchIKBottom1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L/BackpackStretchIKTop1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L/BackpackStretchIKTop1_L/BackpackStretchIKTop1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R/BackpackStretchIKTop1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R/BackpackStretchIKTop1_R/BackpackStretchIKTop1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L/BackpackStretchTop1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L/BackpackStretchTop1_L/BackpackStretchTop1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R/BackpackStretchTop1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R/BackpackStretchTop1_R/BackpackStretchTop1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L/EarTop_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L/EarTop_L/EarTop_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R/EarTop_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R/EarTop_R/EarTop_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/LowerMouth
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/LowerMouth/LowerMouth_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_L/Mouth_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_R/Mouth_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth/Nose
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth/Nose/Nose_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Hat 1
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Hat 1/Hat_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L/HandTip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L/HandTip_L/HandTip_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R/HandTip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R/HandTip_R/HandTip_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L/FootTip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L/FootTip_L/FootTip_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R/FootTip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R/FootTip_R/FootTip_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Stomach
+        weight: 1
+      - path: Armature/Bone/Hip/Stomach/Stomach_end
+        weight: 1
+      - path: Armature/Bone/Hip/Tail
+        weight: 1
+      - path: Armature/Bone/Hip/Tail/TailTip
+        weight: 1
+      - path: Armature/Bone/Hip/Tail/TailTip/TailTip_end
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_L
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_L/LowerLegIK_L_end
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_R
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_R/LowerLegIK_R_end
+        weight: 1
+      - path: Backpack
+        weight: 1
+      - path: Hat
+        weight: 1
+      - path: Panda
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|CubeAction
+      takeName: Armature|CubeAction
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Hip
+        weight: 1
+      - path: Armature/Bone/Hip/Chest
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001/Backpack.001_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_L/Backpack.001_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_R/Backpack.001_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower/BackpackLidTip
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower/BackpackLidTip/BackpackLidTip_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L/BackpackStretchBottom1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L/BackpackStretchBottom1_L/BackpackStretchBottom1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R/BackpackStretchBottom1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R/BackpackStretchBottom1_R/BackpackStretchBottom1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_L/BackpackStretchIK_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_R/BackpackStretchIK_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L/BackpackStretchIKBottom1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L/BackpackStretchIKBottom1_L/BackpackStretchIKBottom1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R/BackpackStretchIKBottom1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R/BackpackStretchIKBottom1_R/BackpackStretchIKBottom1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L/BackpackStretchIKTop1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L/BackpackStretchIKTop1_L/BackpackStretchIKTop1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R/BackpackStretchIKTop1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R/BackpackStretchIKTop1_R/BackpackStretchIKTop1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L/BackpackStretchTop1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L/BackpackStretchTop1_L/BackpackStretchTop1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R/BackpackStretchTop1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R/BackpackStretchTop1_R/BackpackStretchTop1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L/EarTop_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L/EarTop_L/EarTop_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R/EarTop_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R/EarTop_R/EarTop_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/LowerMouth
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/LowerMouth/LowerMouth_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_L/Mouth_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_R/Mouth_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth/Nose
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth/Nose/Nose_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Hat 1
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Hat 1/Hat_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L/HandTip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L/HandTip_L/HandTip_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R/HandTip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R/HandTip_R/HandTip_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L/FootTip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L/FootTip_L/FootTip_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R/FootTip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R/FootTip_R/FootTip_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Stomach
+        weight: 1
+      - path: Armature/Bone/Hip/Stomach/Stomach_end
+        weight: 1
+      - path: Armature/Bone/Hip/Tail
+        weight: 1
+      - path: Armature/Bone/Hip/Tail/TailTip
+        weight: 1
+      - path: Armature/Bone/Hip/Tail/TailTip/TailTip_end
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_L
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_L/LowerLegIK_L_end
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_R
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_R/LowerLegIK_R_end
+        weight: 1
+      - path: Backpack
+        weight: 1
+      - path: Hat
+        weight: 1
+      - path: Panda
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|CubeAction.001
+      takeName: Armature|CubeAction.001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Hip
+        weight: 1
+      - path: Armature/Bone/Hip/Chest
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001/Backpack.001_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_L/Backpack.001_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_R/Backpack.001_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower/BackpackLidTip
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower/BackpackLidTip/BackpackLidTip_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L/BackpackStretchBottom1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L/BackpackStretchBottom1_L/BackpackStretchBottom1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R/BackpackStretchBottom1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R/BackpackStretchBottom1_R/BackpackStretchBottom1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_L/BackpackStretchIK_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_R/BackpackStretchIK_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L/BackpackStretchIKBottom1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L/BackpackStretchIKBottom1_L/BackpackStretchIKBottom1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R/BackpackStretchIKBottom1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R/BackpackStretchIKBottom1_R/BackpackStretchIKBottom1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L/BackpackStretchIKTop1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L/BackpackStretchIKTop1_L/BackpackStretchIKTop1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R/BackpackStretchIKTop1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R/BackpackStretchIKTop1_R/BackpackStretchIKTop1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L/BackpackStretchTop1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L/BackpackStretchTop1_L/BackpackStretchTop1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R/BackpackStretchTop1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R/BackpackStretchTop1_R/BackpackStretchTop1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L/EarTop_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L/EarTop_L/EarTop_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R/EarTop_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R/EarTop_R/EarTop_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/LowerMouth
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/LowerMouth/LowerMouth_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_L/Mouth_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_R/Mouth_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth/Nose
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth/Nose/Nose_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Hat 1
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Hat 1/Hat_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L/HandTip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L/HandTip_L/HandTip_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R/HandTip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R/HandTip_R/HandTip_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L/FootTip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L/FootTip_L/FootTip_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R/FootTip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R/FootTip_R/FootTip_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Stomach
+        weight: 1
+      - path: Armature/Bone/Hip/Stomach/Stomach_end
+        weight: 1
+      - path: Armature/Bone/Hip/Tail
+        weight: 1
+      - path: Armature/Bone/Hip/Tail/TailTip
+        weight: 1
+      - path: Armature/Bone/Hip/Tail/TailTip/TailTip_end
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_L
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_L/LowerLegIK_L_end
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_R
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_R/LowerLegIK_R_end
+        weight: 1
+      - path: Backpack
+        weight: 1
+      - path: Hat
+        weight: 1
+      - path: Panda
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|CubeAction.002
+      takeName: Armature|CubeAction.002
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Hip
+        weight: 1
+      - path: Armature/Bone/Hip/Chest
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001/Backpack.001_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_L/Backpack.001_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_R/Backpack.001_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower/BackpackLidTip
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower/BackpackLidTip/BackpackLidTip_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L/BackpackStretchBottom1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L/BackpackStretchBottom1_L/BackpackStretchBottom1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R/BackpackStretchBottom1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R/BackpackStretchBottom1_R/BackpackStretchBottom1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_L/BackpackStretchIK_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_R/BackpackStretchIK_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L/BackpackStretchIKBottom1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L/BackpackStretchIKBottom1_L/BackpackStretchIKBottom1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R/BackpackStretchIKBottom1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R/BackpackStretchIKBottom1_R/BackpackStretchIKBottom1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L/BackpackStretchIKTop1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L/BackpackStretchIKTop1_L/BackpackStretchIKTop1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R/BackpackStretchIKTop1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R/BackpackStretchIKTop1_R/BackpackStretchIKTop1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L/BackpackStretchTop1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L/BackpackStretchTop1_L/BackpackStretchTop1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R/BackpackStretchTop1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R/BackpackStretchTop1_R/BackpackStretchTop1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L/EarTop_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L/EarTop_L/EarTop_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R/EarTop_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R/EarTop_R/EarTop_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/LowerMouth
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/LowerMouth/LowerMouth_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_L/Mouth_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_R/Mouth_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth/Nose
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth/Nose/Nose_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Hat 1
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Hat 1/Hat_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L/HandTip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L/HandTip_L/HandTip_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R/HandTip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R/HandTip_R/HandTip_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L/FootTip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L/FootTip_L/FootTip_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R/FootTip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R/FootTip_R/FootTip_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Stomach
+        weight: 1
+      - path: Armature/Bone/Hip/Stomach/Stomach_end
+        weight: 1
+      - path: Armature/Bone/Hip/Tail
+        weight: 1
+      - path: Armature/Bone/Hip/Tail/TailTip
+        weight: 1
+      - path: Armature/Bone/Hip/Tail/TailTip/TailTip_end
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_L
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_L/LowerLegIK_L_end
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_R
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_R/LowerLegIK_R_end
+        weight: 1
+      - path: Backpack
+        weight: 1
+      - path: Hat
+        weight: 1
+      - path: Panda
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|Falling
+      takeName: Armature|Falling
+      firstFrame: 0
+      lastFrame: 38
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Hip
+        weight: 1
+      - path: Armature/Bone/Hip/Chest
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001/Backpack.001_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_L/Backpack.001_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_R/Backpack.001_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower/BackpackLidTip
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower/BackpackLidTip/BackpackLidTip_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L/BackpackStretchBottom1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L/BackpackStretchBottom1_L/BackpackStretchBottom1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R/BackpackStretchBottom1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R/BackpackStretchBottom1_R/BackpackStretchBottom1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_L/BackpackStretchIK_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_R/BackpackStretchIK_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L/BackpackStretchIKBottom1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L/BackpackStretchIKBottom1_L/BackpackStretchIKBottom1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R/BackpackStretchIKBottom1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R/BackpackStretchIKBottom1_R/BackpackStretchIKBottom1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L/BackpackStretchIKTop1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L/BackpackStretchIKTop1_L/BackpackStretchIKTop1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R/BackpackStretchIKTop1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R/BackpackStretchIKTop1_R/BackpackStretchIKTop1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L/BackpackStretchTop1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L/BackpackStretchTop1_L/BackpackStretchTop1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R/BackpackStretchTop1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R/BackpackStretchTop1_R/BackpackStretchTop1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L/EarTop_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L/EarTop_L/EarTop_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R/EarTop_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R/EarTop_R/EarTop_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/LowerMouth
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/LowerMouth/LowerMouth_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_L/Mouth_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_R/Mouth_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth/Nose
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth/Nose/Nose_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Hat 1
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Hat 1/Hat_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L/HandTip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L/HandTip_L/HandTip_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R/HandTip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R/HandTip_R/HandTip_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L/FootTip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L/FootTip_L/FootTip_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R/FootTip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R/FootTip_R/FootTip_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Stomach
+        weight: 1
+      - path: Armature/Bone/Hip/Stomach/Stomach_end
+        weight: 1
+      - path: Armature/Bone/Hip/Tail
+        weight: 1
+      - path: Armature/Bone/Hip/Tail/TailTip
+        weight: 1
+      - path: Armature/Bone/Hip/Tail/TailTip/TailTip_end
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_L
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_L/LowerLegIK_L_end
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_R
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_R/LowerLegIK_R_end
+        weight: 1
+      - path: Backpack
+        weight: 1
+      - path: Hat
+        weight: 1
+      - path: Panda
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|GrabLedge
+      takeName: Armature|GrabLedge
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Hip
+        weight: 1
+      - path: Armature/Bone/Hip/Chest
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001/Backpack.001_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_L/Backpack.001_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_R/Backpack.001_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower/BackpackLidTip
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower/BackpackLidTip/BackpackLidTip_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L/BackpackStretchBottom1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L/BackpackStretchBottom1_L/BackpackStretchBottom1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R/BackpackStretchBottom1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R/BackpackStretchBottom1_R/BackpackStretchBottom1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_L/BackpackStretchIK_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_R/BackpackStretchIK_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L/BackpackStretchIKBottom1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L/BackpackStretchIKBottom1_L/BackpackStretchIKBottom1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R/BackpackStretchIKBottom1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R/BackpackStretchIKBottom1_R/BackpackStretchIKBottom1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L/BackpackStretchIKTop1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L/BackpackStretchIKTop1_L/BackpackStretchIKTop1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R/BackpackStretchIKTop1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R/BackpackStretchIKTop1_R/BackpackStretchIKTop1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L/BackpackStretchTop1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L/BackpackStretchTop1_L/BackpackStretchTop1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R/BackpackStretchTop1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R/BackpackStretchTop1_R/BackpackStretchTop1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L/EarTop_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L/EarTop_L/EarTop_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R/EarTop_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R/EarTop_R/EarTop_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/LowerMouth
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/LowerMouth/LowerMouth_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_L/Mouth_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_R/Mouth_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth/Nose
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth/Nose/Nose_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Hat 1
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Hat 1/Hat_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L/HandTip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L/HandTip_L/HandTip_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R/HandTip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R/HandTip_R/HandTip_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L/FootTip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L/FootTip_L/FootTip_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R/FootTip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R/FootTip_R/FootTip_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Stomach
+        weight: 1
+      - path: Armature/Bone/Hip/Stomach/Stomach_end
+        weight: 1
+      - path: Armature/Bone/Hip/Tail
+        weight: 1
+      - path: Armature/Bone/Hip/Tail/TailTip
+        weight: 1
+      - path: Armature/Bone/Hip/Tail/TailTip/TailTip_end
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_L
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_L/LowerLegIK_L_end
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_R
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_R/LowerLegIK_R_end
+        weight: 1
+      - path: Backpack
+        weight: 1
+      - path: Hat
+        weight: 1
+      - path: Panda
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|RunCycle
+      takeName: Armature|RunCycle
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Hip
+        weight: 1
+      - path: Armature/Bone/Hip/Chest
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001/Backpack.001_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_L/Backpack.001_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/Backpack.001_R/Backpack.001_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower/BackpackLidTip
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackLid/BackpackLidUpper/BackpackLidLower/BackpackLidTip/BackpackLidTip_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L/BackpackStretchBottom1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_L/BackpackStretchBottom3_L/BackpackStretchBottom2_L/BackpackStretchBottom1_L/BackpackStretchBottom1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R/BackpackStretchBottom1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchBottom4_R/BackpackStretchBottom3_R/BackpackStretchBottom2_R/BackpackStretchBottom1_R/BackpackStretchBottom1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_L/BackpackStretchIK_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIK_R/BackpackStretchIK_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L/BackpackStretchIKBottom1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_L/BackpackStretchIKBottom3_L/BackpackStretchIKBottom2_L/BackpackStretchIKBottom1_L/BackpackStretchIKBottom1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R/BackpackStretchIKBottom1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKBottom4_R/BackpackStretchIKBottom3_R/BackpackStretchIKBottom2_R/BackpackStretchIKBottom1_R/BackpackStretchIKBottom1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L/BackpackStretchIKTop1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_L/BackpackStretchIKTop3_L/BackpackStretchIKTop2_L/BackpackStretchIKTop1_L/BackpackStretchIKTop1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R/BackpackStretchIKTop1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchIKTop4_R/BackpackStretchIKTop3_R/BackpackStretchIKTop2_R/BackpackStretchIKTop1_R/BackpackStretchIKTop1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L/BackpackStretchTop1_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_L/BackpackStretchTop3_L/BackpackStretchTop2_L/BackpackStretchTop1_L/BackpackStretchTop1_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R/BackpackStretchTop1_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack 1/BackpackStretchTop4_R/BackpackStretchTop3_R/BackpackStretchTop2_R/BackpackStretchTop1_R/BackpackStretchTop1_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L/EarTop_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L/EarTop_L/EarTop_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R/EarTop_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R/EarTop_R/EarTop_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/LowerMouth
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/LowerMouth/LowerMouth_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_L/Mouth_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_R/Mouth_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth/Nose
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth/Nose/Nose_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Hat 1
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Hat 1/Hat_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L/HandTip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L/HandTip_L/HandTip_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R/HandTip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R/HandTip_R/HandTip_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L/FootTip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L/FootTip_L/FootTip_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R/FootTip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R/FootTip_R/FootTip_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Stomach
+        weight: 1
+      - path: Armature/Bone/Hip/Stomach/Stomach_end
+        weight: 1
+      - path: Armature/Bone/Hip/Tail
+        weight: 1
+      - path: Armature/Bone/Hip/Tail/TailTip
+        weight: 1
+      - path: Armature/Bone/Hip/Tail/TailTip/TailTip_end
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_L
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_L/LowerLegIK_L_end
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_R
+        weight: 1
+      - path: Armature/Bone/LowerLegIK_R/LowerLegIK_R_end
+        weight: 1
+      - path: Backpack
+        weight: 1
+      - path: Hat
+        weight: 1
+      - path: Panda
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Hip
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperLeg_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperLeg_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerLeg_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerLeg_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chest
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shoulder_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shoulder_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperArm_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperArm_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerArm_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerArm_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HandStart_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HandStart_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FootTip_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FootTip_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mouth_L
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mouth_R
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerMouth
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: PandaGrabLedge(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Armature
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106709}
+      scale: {x: 100, y: 100.000008, z: 100.000008}
+      transformModified: 1
+    - name: Bone
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 1, y: -3.55271368e-15, z: 7.54978942e-08, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hip
+      position: {x: -.00108421582, y: -.00163175294, z: -.0126521457}
+      rotation: {x: -.694207847, y: -1.40145261e-07, z: 3.03447685e-08, w: .719774663}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Chest
+      position: {x: 1.32424913e-11, y: .00585769722, z: -4.32132143e-11}
+      rotation: {x: -.0855611116, y: 1.17201687e-07, z: 1.24894433e-08, w: .996332943}
+      scale: {x: .999999821, y: 1.00000012, z: .999999583}
+      transformModified: 1
+    - name: Neck
+      position: {x: -1.62981451e-11, y: .00650331052, z: 5.4875271e-10}
+      rotation: {x: .229712605, y: 4.59084903e-09, z: 2.11361306e-09, w: .973258555}
+      scale: {x: 1, y: .999999344, z: .999999583}
+      transformModified: 1
+    - name: Head
+      position: {x: 4.08617779e-10, y: .00481572188, z: -1.38679748e-10}
+      rotation: {x: -.114609554, y: -1.19506694e-07, z: 1.19538299e-08, w: .993410647}
+      scale: {x: 1.00000012, y: .999999702, z: 1.0000006}
+      transformModified: 1
+    - name: Ear_L
+      position: {x: -.0107286917, y: .0153118353, z: .00136215799}
+      rotation: {x: -.218369648, y: .690783501, z: .151056543, w: .672543585}
+      scale: {x: .999999821, y: .999999881, z: 1}
+      transformModified: 1
+    - name: EarTop_L
+      position: {x: -2.94297919e-09, y: .00368808233, z: 2.38418574e-09}
+      rotation: {x: 0, y: 4.84287668e-08, z: 5.96046377e-08, w: 1}
+      scale: {x: .999999583, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: EarTop_L_end
+      position: {x: -0, y: .0036880828, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ear_R
+      position: {x: .0107286889, y: .0153118391, z: .00136215216}
+      rotation: {x: -.218369648, y: -.690783381, z: -.151056513, w: .672543705}
+      scale: {x: .999999821, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: EarTop_R
+      position: {x: 1.04308129e-09, y: .00368808093, z: 2.01165662e-09}
+      rotation: {x: 1.49011576e-08, y: -7.07805015e-08, z: -8.94069458e-08, w: 1}
+      scale: {x: 1.00000048, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: EarTop_R_end
+      position: {x: -0, y: .0036880828, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Face
+      position: {x: 1.22934574e-09, y: .00668767001, z: .00533753168}
+      rotation: {x: .820358753, y: -2.11036038e-07, z: -4.91580522e-07, w: .571849227}
+      scale: {x: .999999821, y: .999999464, z: .999999881}
+      transformModified: 1
+    - name: UpperMouth
+      position: {x: -8.75443218e-10, y: .00526810577, z: -.00112533593}
+      rotation: {x: -.0730572194, y: 1.15964554e-07, z: 5.72118779e-08, w: .997327805}
+      scale: {x: 1.00000012, y: 1.00000048, z: 1.00000072}
+      transformModified: 1
+    - name: Nose
+      position: {x: -2.520829e-05, y: .0018969886, z: -.00124229665}
+      rotation: {x: -.00100064266, y: .988340437, z: -.152256787, w: -.000154537251}
+      scale: {x: 1.00000024, y: .999999881, z: 1.00000048}
+      transformModified: 1
+    - name: Nose_end
+      position: {x: -0, y: .00236695167, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerMouth
+      position: {x: 8.75443218e-10, y: .00517766923, z: .000694397371}
+      rotation: {x: 3.87832024e-08, y: .997632742, z: .0687679499, w: -3.19141662e-07}
+      scale: {x: .999999583, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: LowerMouth_end
+      position: {x: -0, y: .00449508149, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mouth_L
+      position: {x: -.00369322044, y: .0051216823, z: -.000238738241}
+      rotation: {x: .0330579579, y: .204560757, z: -.0470285453, w: .977164447}
+      scale: {x: 1.00000012, y: 1, z: 1.0000006}
+      transformModified: 1
+    - name: Mouth_L_end
+      position: {x: -0, y: .00374726485, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mouth_R
+      position: {x: .0036932209, y: .00512168417, z: -.000238744353}
+      rotation: {x: .0330579169, y: -.204559863, z: .0470285416, w: .977164745}
+      scale: {x: .999999881, y: .999999821, z: 1.00000048}
+      transformModified: 1
+    - name: Mouth_R_end
+      position: {x: -0, y: .00374726485, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hat 1
+      position: {x: .000844216789, y: .0302542374, z: -.00993741769}
+      rotation: {x: -.0493140332, y: -1.90217975e-09, z: 2.04914201e-08, w: .99878335}
+      scale: {x: .999999821, y: .999999583, z: .999999881}
+      transformModified: 1
+    - name: Hat_end
+      position: {x: -0, y: .00699039456, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Shoulder_L
+      position: {x: -1.62981451e-11, y: .00650331052, z: 5.4875271e-10}
+      rotation: {x: -.469255, y: .462769628, z: .521005332, w: .542399824}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999583}
+      transformModified: 1
+    - name: UpperArm_L
+      position: {x: -7.45058015e-10, y: .0096480241, z: 2.60770316e-09}
+      rotation: {x: -.039507959, y: .00141531194, z: .0159178637, w: .999091446}
+      scale: {x: .999999344, y: .999999702, z: .999999762}
+      transformModified: 1
+    - name: LowerArm_L
+      position: {x: -2.98023217e-10, y: .0043654996, z: -4.47034826e-10}
+      rotation: {x: -.00493332697, y: .000509798469, z: .00197908259, w: .999985814}
+      scale: {x: 1.00000131, y: 1.00000048, z: 1.00000107}
+      transformModified: 1
+    - name: HandStart_L
+      position: {x: -2.98023217e-10, y: .0040092445, z: -1.19209287e-09}
+      rotation: {x: -.0608662888, y: .00282683945, z: .000252395839, w: .998141944}
+      scale: {x: 1.00000024, y: 1.0000006, z: 1.00000012}
+      transformModified: 1
+    - name: HandMiddle_L
+      position: {x: 1.49011603e-09, y: .00396313472, z: -1.22003252e-09}
+      rotation: {x: -.0920835957, y: .00477379514, z: .0127204191, w: .995658636}
+      scale: {x: 1.00000095, y: 1.00000036, z: 1.00000143}
+      transformModified: 1
+    - name: HandTip_L
+      position: {x: -5.96046434e-10, y: .00340761337, z: -1.54599544e-09}
+      rotation: {x: -.155326784, y: .00951587968, z: -.00334124197, w: .987811744}
+      scale: {x: .999999702, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: HandTip_L_end
+      position: {x: -0, y: .00260166964, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Shoulder_R
+      position: {x: -1.62981451e-11, y: .00650331052, z: 5.4875271e-10}
+      rotation: {x: -.46925503, y: -.462769717, z: -.521005392, w: .542399704}
+      scale: {x: .999999881, y: 1, z: .99999994}
+      transformModified: 1
+    - name: UpperArm_R
+      position: {x: 2.23517413e-10, y: .00964802317, z: -6.47269183e-10}
+      rotation: {x: .0383725315, y: -.0644715652, z: .0184883252, w: -.997010112}
+      scale: {x: .999999166, y: .999998868, z: .999999285}
+      transformModified: 1
+    - name: LowerArm_R
+      position: {x: 1.26659871e-09, y: .00436549727, z: -1.30385161e-10}
+      rotation: {x: -.00479167607, y: -.0664514303, z: -.00230005337, w: .997775555}
+      scale: {x: 1.00000119, y: 1.00000095, z: 1.00000107}
+      transformModified: 1
+    - name: HandStart_R
+      position: {x: 7.45058015e-10, y: .00400924776, z: 8.00937372e-10}
+      rotation: {x: -.0608659908, y: -.00282695866, z: -.000252380938, w: .998141885}
+      scale: {x: 1.00000048, y: 1.00000095, z: 1.00000048}
+      transformModified: 1
+    - name: HandMiddle_R
+      position: {x: -4.65661287e-10, y: .00396313565, z: 3.4179537e-09}
+      rotation: {x: -.0920834243, y: -.00477364659, z: -.0127203315, w: .995658636}
+      scale: {x: 1.00000012, y: 1.0000006, z: 1.00000131}
+      transformModified: 1
+    - name: HandTip_R
+      position: {x: 4.28408364e-10, y: .00340761384, z: -1.27591193e-09}
+      rotation: {x: -.155326843, y: -.00951597095, z: .00334122777, w: .987811685}
+      scale: {x: 1.00000048, y: 1, z: .99999994}
+      transformModified: 1
+    - name: HandTip_R_end
+      position: {x: -0, y: .00260166964, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Backpack 1
+      position: {x: .00194455753, y: .00237596571, z: -.0133355521}
+      rotation: {x: .149581909, y: 2.40697887e-07, z: 3.76915565e-08, w: .988749325}
+      scale: {x: 1, y: .999999404, z: .999999881}
+      transformModified: 1
+    - name: BackpackLid
+      position: {x: -5.96046434e-10, y: .0120297093, z: .000700327742}
+      rotation: {x: -.746681988, y: -1.4760424e-07, z: -1.78647383e-07, w: .66518122}
+      scale: {x: 1.00000012, y: 1.00000036, z: 1.00000048}
+      transformModified: 1
+    - name: BackpackLidUpper
+      position: {x: -2.98023217e-10, y: .00359487021, z: -1.59197944e-09}
+      rotation: {x: -.108747065, y: -1.34938434e-08, z: -1.82922317e-08, w: .994069457}
+      scale: {x: .999999762, y: 1.00000036, z: 1.00000048}
+      transformModified: 1
+    - name: BackpackLidLower
+      position: {x: -0, y: .00303680752, z: -4.47034826e-10}
+      rotation: {x: .533126652, y: -1.04137868e-07, z: 5.5196427e-08, w: -.84603548}
+      scale: {x: 1, y: .999999046, z: 1.00000036}
+      transformModified: 1
+    - name: BackpackLidTip
+      position: {x: -0, y: .00225533266, z: 1.95577735e-10}
+      rotation: {x: -.0687803552, y: 1.15966248e-09, z: -2.25608545e-08, w: .997631848}
+      scale: {x: 1, y: .999999702, z: 1.00000036}
+      transformModified: 1
+    - name: BackpackLidTip_end
+      position: {x: -0, y: .00306851976, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Backpack.001
+      position: {x: -7.45058015e-10, y: .00511333952, z: .000331075775}
+      rotation: {x: -.771180332, y: -1.5032505e-07, z: -1.73091863e-07, w: .636616826}
+      scale: {x: 1, y: .999999821, z: 1.00000036}
+      transformModified: 1
+    - name: Backpack.001_end
+      position: {x: -0, y: .00485623721, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Backpack.001_L
+      position: {x: 1.49011609e-10, y: .00478118611, z: -.00166221766}
+      rotation: {x: -.494777948, y: .580843568, z: .492063493, w: .419152886}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Backpack.001_L_end
+      position: {x: -0, y: .00722065009, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Backpack.001_R
+      position: {x: 4.47034826e-10, y: .00478118611, z: -.00166221766}
+      rotation: {x: .49477756, y: .580843925, z: .492063582, w: -.419152796}
+      scale: {x: 1.00000024, y: .999999881, z: 1.00000036}
+      transformModified: 1
+    - name: Backpack.001_R_end
+      position: {x: -0, y: .00722065009, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackStretchIK_L
+      position: {x: -.0114356205, y: .00798391365, z: .0159470644}
+      rotation: {x: -1.7006947e-07, y: .763010204, z: .646386504, w: 2.5850531e-07}
+      scale: {x: .99999994, y: .999999821, z: .999999523}
+      transformModified: 1
+    - name: BackpackStretchIK_L_end
+      position: {x: -0, y: .00419264333, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackStretchIK_R
+      position: {x: .0114356028, y: .00798391178, z: .0159470737}
+      rotation: {x: -1.7006947e-07, y: .763010204, z: .646386504, w: 2.5850531e-07}
+      scale: {x: .99999994, y: .999999821, z: .999999523}
+      transformModified: 1
+    - name: BackpackStretchIK_R_end
+      position: {x: -0, y: .00419264333, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackStretchIKBottom4_L
+      position: {x: -.00670399191, y: .000513206061, z: .000237919085}
+      rotation: {x: -.290722519, y: .711071372, z: .604352236, w: .211225644}
+      scale: {x: 1.1544987, y: 1.15449834, z: 1.15449917}
+      transformModified: 1
+    - name: BackpackStretchIKBottom3_L
+      position: {x: 5.3644178e-09, y: .00571412919, z: 1.99303019e-09}
+      rotation: {x: -.0425181054, y: .106245995, z: .262724727, w: .958060443}
+      scale: {x: 1.0495733, y: 1.04957211, z: 1.04957259}
+      transformModified: 1
+    - name: BackpackStretchIKBottom2_L
+      position: {x: -1.4156103e-09, y: .00433218479, z: 3.42726691e-09}
+      rotation: {x: .0290656611, y: -.638851702, z: -.242376119, w: -.729573488}
+      scale: {x: .960042119, y: .960043669, z: .960042536}
+      transformModified: 1
+    - name: BackpackStretchIKBottom1_L
+      position: {x: -4.54485427e-09, y: .00435268367, z: 7.3108819e-10}
+      rotation: {x: -.290636212, y: .568339229, z: .264653772, w: .722827435}
+      scale: {x: .895965517, y: .895967185, z: .895966291}
+      transformModified: 1
+    - name: BackpackStretchIKBottom1_L_end
+      position: {x: -0, y: .00413006032, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackStretchIKTop4_L
+      position: {x: -.00715766056, y: .010285289, z: -.000283469475}
+      rotation: {x: -.186933562, y: .733262539, z: .469333917, w: .455090672}
+      scale: {x: 1.14733195, y: 1.14733207, z: 1.14733136}
+      transformModified: 1
+    - name: BackpackStretchIKTop3_L
+      position: {x: 5.66244118e-09, y: .00541641098, z: 4.17232515e-09}
+      rotation: {x: -.152706057, y: .204430386, z: .298649371, w: .919618249}
+      scale: {x: 1.06019735, y: 1.06019735, z: 1.060197}
+      transformModified: 1
+    - name: BackpackStretchIKTop2_L
+      position: {x: -4.09781931e-10, y: .00515293609, z: 7.07805148e-10}
+      rotation: {x: -.259023547, y: -.00131510932, z: .293543667, w: .920183182}
+      scale: {x: .966797709, y: .966798186, z: .966798246}
+      transformModified: 1
+    - name: BackpackStretchIKTop1_L
+      position: {x: 1.15484e-09, y: .00492004212, z: 3.65078434e-09}
+      rotation: {x: -.396936566, y: .0917610377, z: -.0728474632, w: .910337627}
+      scale: {x: .933125317, y: .933126032, z: .933127344}
+      transformModified: 1
+    - name: BackpackStretchIKTop1_L_end
+      position: {x: -0, y: .0045168479, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackStretchIKBottom4_R
+      position: {x: .00670399051, y: .00051320903, z: .000237927277}
+      rotation: {x: .290722221, y: .711071491, z: .604352355, w: -.211225316}
+      scale: {x: 1.1544981, y: 1.15449858, z: 1.1544981}
+      transformModified: 1
+    - name: BackpackStretchIKBottom3_R
+      position: {x: 8.94069652e-10, y: .00571412826, z: 4.76837148e-09}
+      rotation: {x: -.0425181389, y: -.10624598, z: -.262724638, w: .958060443}
+      scale: {x: 1.04957259, y: 1.04957187, z: 1.04957294}
+      transformModified: 1
+    - name: BackpackStretchIKBottom2_R
+      position: {x: -8.94069652e-10, y: .00433218153, z: 4.47034826e-10}
+      rotation: {x: -.029065758, y: -.638851762, z: -.242376179, w: .729573488}
+      scale: {x: .96004343, y: .960044026, z: .960042596}
+      transformModified: 1
+    - name: BackpackStretchIKBottom1_R
+      position: {x: 1.26659871e-09, y: .00435268506, z: -3.63215791e-10}
+      rotation: {x: -.290636301, y: -.568339229, z: -.264653772, w: .722827435}
+      scale: {x: .89596653, y: .895966411, z: .895966172}
+      transformModified: 1
+    - name: BackpackStretchIKBottom1_R_end
+      position: {x: -0, y: .00413006032, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackStretchIKTop4_R
+      position: {x: .00715765869, y: .010285289, z: -.000283463305}
+      rotation: {x: .186933368, y: .733262777, z: .469334006, w: -.455090433}
+      scale: {x: 1.14733231, y: 1.14733195, z: 1.14733195}
+      transformModified: 1
+    - name: BackpackStretchIKTop3_R
+      position: {x: -3.12924375e-09, y: .00541641051, z: 1.04308129e-09}
+      rotation: {x: -.152706027, y: -.204430461, z: -.298649609, w: .91961813}
+      scale: {x: 1.06019688, y: 1.06019723, z: 1.060197}
+      transformModified: 1
+    - name: BackpackStretchIKTop2_R
+      position: {x: 1.63912772e-09, y: .0051529347, z: -1.56462188e-09}
+      rotation: {x: -.259023398, y: .00131509441, z: -.293543667, w: .920183301}
+      scale: {x: .966798306, y: .966797471, z: .966798782}
+      transformModified: 1
+    - name: BackpackStretchIKTop1_R
+      position: {x: 1.34110445e-09, y: .00492004538, z: 2.25380048e-09}
+      rotation: {x: -.396936864, y: -.0917611048, z: .0728474557, w: .910337389}
+      scale: {x: .933124959, y: .933125019, z: .933125734}
+      transformModified: 1
+    - name: BackpackStretchIKTop1_R_end
+      position: {x: -0, y: .0045168479, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackStretchTop4_L
+      position: {x: -.00715766056, y: .010285289, z: -.000283469475}
+      rotation: {x: -.186933652, y: .733262539, z: .469334006, w: .455090672}
+      scale: {x: .933588862, y: 1.14733183, z: .933588743}
+      transformModified: 1
+    - name: BackpackStretchTop3_L
+      position: {x: -2.98023217e-10, y: .00541640865, z: -1.19209287e-09}
+      rotation: {x: -.152705938, y: .204430342, z: .29864943, w: .919618249}
+      scale: {x: .953921735, y: 1.20102561, z: .957612574}
+      transformModified: 1
+    - name: BackpackStretchTop2_L
+      position: {x: -1.11758702e-09, y: .00515293423, z: 1.82539217e-09}
+      rotation: {x: -.259023428, y: -.001315117, z: .293543696, w: .920183301}
+      scale: {x: .872202933, y: 1.54417658, z: .931556582}
+      transformModified: 1
+    - name: BackpackStretchTop1_L
+      position: {x: 1.52736901e-09, y: .00492004305, z: -7.45058043e-11}
+      rotation: {x: -.396936715, y: .0917610899, z: -.0728474855, w: .910337567}
+      scale: {x: 1.25269783, y: 1.54254293, z: .618955493}
+      transformModified: 1
+    - name: BackpackStretchTop1_L_end
+      position: {x: -0, y: .0045168479, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackStretchBottom4_L
+      position: {x: -.00670399191, y: .000513206061, z: .000237919085}
+      rotation: {x: -.290722489, y: .711071372, z: .604352236, w: .211225674}
+      scale: {x: .930686295, y: 1.1544981, z: .930686772}
+      transformModified: 1
+    - name: BackpackStretchBottom3_L
+      position: {x: 1.19209287e-09, y: .00571413012, z: -1.15018339e-09}
+      rotation: {x: -.0425181948, y: .106246069, z: .262724608, w: .958060384}
+      scale: {x: .958250999, y: 1.15139472, z: .97504276}
+      transformModified: 1
+    - name: BackpackStretchBottom2_L
+      position: {x: -4.47034826e-10, y: .00433218107, z: 2.08616258e-09}
+      rotation: {x: .0290658474, y: -.638851643, z: -.242376179, w: -.729573607}
+      scale: {x: 1.07405674, y: 1.28569722, z: .837131262}
+      transformModified: 1
+    - name: BackpackStretchBottom1_L
+      position: {x: -4.84287721e-10, y: .00435268413, z: -4.28408364e-10}
+      rotation: {x: -.290636271, y: .568339288, z: .264653891, w: .722827375}
+      scale: {x: 1.15385592, y: 1.37697673, z: .700134754}
+      transformModified: 1
+    - name: BackpackStretchBottom1_L_end
+      position: {x: -0, y: .00413006032, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackStretchTop4_R
+      position: {x: .00715765869, y: .010285289, z: -.000283463305}
+      rotation: {x: .186933443, y: .733262837, z: .469333917, w: -.455090374}
+      scale: {x: .933588922, y: 1.14733136, z: .933588684}
+      transformModified: 1
+    - name: BackpackStretchTop3_R
+      position: {x: 1.49011609e-10, y: .00541640911, z: -3.9488075e-09}
+      rotation: {x: -.152706102, y: -.204430386, z: -.298649609, w: .91961807}
+      scale: {x: .953920841, y: 1.2010268, z: .957611859}
+      transformModified: 1
+    - name: BackpackStretchTop2_R
+      position: {x: 9.68575442e-10, y: .0051529333, z: 8.94069652e-10}
+      rotation: {x: -.259023309, y: .00131512433, z: -.293543637, w: .920183301}
+      scale: {x: .872204781, y: 1.5441792, z: .931557357}
+      transformModified: 1
+    - name: BackpackStretchTop1_R
+      position: {x: 1.49011603e-09, y: .00492004305, z: -1.11758702e-09}
+      rotation: {x: -.396937013, y: -.091761142, z: .0728474483, w: .910337448}
+      scale: {x: 1.25269949, y: 1.54254138, z: .618955553}
+      transformModified: 1
+    - name: BackpackStretchTop1_R_end
+      position: {x: -0, y: .0045168479, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackStretchBottom4_R
+      position: {x: .00670399051, y: .00051320903, z: .000237927277}
+      rotation: {x: .290722251, y: .711071491, z: .604352355, w: -.211225316}
+      scale: {x: .930685878, y: 1.15449822, z: .930686295}
+      transformModified: 1
+    - name: BackpackStretchBottom3_R
+      position: {x: -1.7881393e-09, y: .00571412966, z: 2.98023217e-10}
+      rotation: {x: -.0425181948, y: -.106245965, z: -.262724727, w: .958060384}
+      scale: {x: .958251178, y: 1.15139544, z: .975043356}
+      transformModified: 1
+    - name: BackpackStretchBottom2_R
+      position: {x: -1.49011609e-10, y: .00433218107, z: -2.23517405e-09}
+      rotation: {x: -.0290655494, y: -.638851643, z: -.242376179, w: .729573548}
+      scale: {x: 1.0740571, y: 1.28569794, z: .837130606}
+      transformModified: 1
+    - name: BackpackStretchBottom1_R
+      position: {x: 3.39932726e-09, y: .00435268413, z: 1.95577735e-10}
+      rotation: {x: -.290636331, y: -.568339407, z: -.264653742, w: .722827375}
+      scale: {x: 1.15385401, y: 1.37697566, z: .700133801}
+      transformModified: 1
+    - name: BackpackStretchBottom1_R_end
+      position: {x: -0, y: .00413006032, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hip_L
+      position: {x: .00108421873, y: 2.67531505e-05, z: .000372070732}
+      rotation: {x: -.515789866, y: .504321158, z: .52061218, w: .456709981}
+      scale: {x: .999999881, y: 1.00000012, z: .999999642}
+      transformModified: 1
+    - name: UpperLeg_L
+      position: {x: -7.10807726e-05, y: .00729105435, z: -.000106995722}
+      rotation: {x: .501148105, y: -.563763261, z: .455573916, w: -.472730368}
+      scale: {x: 1, y: 1.00000024, z: 1.00000048}
+      transformModified: 1
+    - name: LowerLeg_L
+      position: {x: 1.37835743e-09, y: .00477827247, z: 7.45058043e-11}
+      rotation: {x: .172842517, y: -5.01836475e-05, z: .000287100935, w: .98494941}
+      scale: {x: .999999583, y: 1.00000036, z: .999999285}
+      transformModified: 1
+    - name: Foot_L
+      position: {x: 6.70552225e-10, y: .00707255304, z: 5.21540644e-10}
+      rotation: {x: -.0207160003, y: .63113308, z: -.774965525, w: -.0258912127}
+      scale: {x: 1, y: .999999881, z: .999999762}
+      transformModified: 1
+    - name: FootTip_L
+      position: {x: 7.82310938e-10, y: .00588131277, z: -3.72529008e-10}
+      rotation: {x: -.00301426603, y: -.00018371825, z: 4.06056586e-07, w: .99999547}
+      scale: {x: 1.0000006, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: FootTip_L_end
+      position: {x: -0, y: .00558008859, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hip_R
+      position: {x: .00108421862, y: 2.67531505e-05, z: .000372070732}
+      rotation: {x: .515790045, y: .504321039, z: .520612121, w: -.4567101}
+      scale: {x: .999998927, y: .999999583, z: .999999166}
+      transformModified: 1
+    - name: UpperLeg_R
+      position: {x: 7.10809982e-05, y: .00729105575, z: -.000106997526}
+      rotation: {x: -.501148105, y: -.56376338, z: .455573916, w: .472730368}
+      scale: {x: 1.00000036, y: 1.00000024, z: 1.00000048}
+      transformModified: 1
+    - name: LowerLeg_R
+      position: {x: -1.76019965e-09, y: .00477827247, z: 5.21540644e-10}
+      rotation: {x: .172842622, y: 5.02820731e-05, z: -.000287157716, w: .98494947}
+      scale: {x: .999999583, y: 1.00000036, z: 1.00000048}
+      transformModified: 1
+    - name: Foot_R
+      position: {x: 1.86264504e-10, y: .00707255118, z: 0}
+      rotation: {x: .0207160823, y: .63113308, z: -.774965525, w: .0258912463}
+      scale: {x: .999999821, y: .999999225, z: .999999106}
+      transformModified: 1
+    - name: FootTip_R
+      position: {x: -5.21540644e-10, y: .00588131184, z: -4.28408364e-10}
+      rotation: {x: -.00301435473, y: .000183653014, z: -4.67523762e-07, w: .99999547}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: FootTip_R_end
+      position: {x: -0, y: .00558008859, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tail
+      position: {x: -2.00336991e-09, y: .00106981257, z: -.00843982771}
+      rotation: {x: -.446243942, y: 1.19989281e-07, z: 5.20493302e-08, w: .894911408}
+      scale: {x: .999999821, y: .999999702, z: 1.00000048}
+      transformModified: 1
+    - name: TailTip
+      position: {x: 1.11758706e-10, y: .00212945929, z: -2.29192663e-12}
+      rotation: {x: -1.49011598e-07, y: -1.58031543e-08, z: -1.71604313e-08, w: 1}
+      scale: {x: 1.00000012, y: .999999881, z: 1.00000036}
+      transformModified: 1
+    - name: TailTip_end
+      position: {x: -0, y: .00212945952, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Stomach
+      position: {x: .00143794413, y: .00388584728, z: .00463854708}
+      rotation: {x: 4.5934803e-07, y: .579864442, z: .814713001, w: 1.84549961e-07}
+      scale: {x: 1.00000024, y: .999999881, z: .999999642}
+      transformModified: 1
+    - name: Stomach_end
+      position: {x: -0, y: .0076361727, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerLegIK_L
+      position: {x: -.00765412021, y: -.00342296623, z: -.00882053375}
+      rotation: {x: -1, y: 7.04991621e-15, z: -7.50431468e-08, w: 1.65436123e-24}
+      scale: {x: .999999821, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: LowerLegIK_L_end
+      position: {x: -0, y: .00384698529, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerLegIK_R
+      position: {x: .00735456683, y: -.00157263363, z: -.00883391779}
+      rotation: {x: -1, y: 7.04991621e-15, z: -7.50431468e-08, w: 1.65436123e-24}
+      scale: {x: .999999821, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: LowerLegIK_R_end
+      position: {x: -0, y: .00384698529, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Backpack
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106709}
+      scale: {x: 100, y: 100.000008, z: 100.000008}
+      transformModified: 1
+    - name: Hat
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106709}
+      scale: {x: 100, y: 100.000008, z: 100.000008}
+      transformModified: 1
+    - name: Panda
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106709}
+      scale: {x: 100, y: 100.000008, z: 100.000008}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
