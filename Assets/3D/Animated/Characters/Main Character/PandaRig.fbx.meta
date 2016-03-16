@@ -1,0 +1,1397 @@
+fileFormatVersion: 2
+guid: a8a9a36f7bae274448e34e699b6caa22
+timeCreated: 1456835052
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Backpack
+    100004: Backpack.001
+    100006: Backpack.001_end
+    100008: Backpack.001_L
+    100010: Backpack.001_L_end
+    100012: Backpack.001_R
+    100014: Backpack.001_R_end
+    100016: Backpack_L
+    100018: Backpack_L.001
+    100020: Backpack_L.002
+    100022: Backpack_L.003
+    100024: Backpack_L.004
+    100026: Backpack_L.005
+    100028: Backpack_L.006
+    100030: Backpack_L.007
+    100032: Backpack_L.007_end
+    100034: Backpack_R
+    100036: Backpack_R.001
+    100038: Backpack_R.002
+    100040: Backpack_R.003
+    100042: Backpack_R.004
+    100044: Backpack_R.005
+    100046: Backpack_R.006
+    100048: Backpack_R.007
+    100050: Backpack_R.007_end
+    100052: BackpackLid
+    100054: BackpackLidLower
+    100056: BackpackLidTip
+    100058: BackpackLidTip_end
+    100060: BackpackLidUpper
+    100062: Bone
+    100064: Chest
+    100066: Ear_L
+    100068: Ear_R
+    100070: EarTop_L
+    100072: EarTop_L_end
+    100074: EarTop_R
+    100076: EarTop_R_end
+    100078: Face
+    100080: Foot_L
+    100082: Foot_R
+    100084: FootTip_L
+    100086: FootTip_L_end
+    100088: FootTip_R
+    100090: FootTip_R_end
+    100092: HandMiddle_L
+    100094: HandMiddle_R
+    100096: HandStart_L
+    100098: HandStart_R
+    100100: HandTip_L
+    100102: HandTip_L_end
+    100104: HandTip_R
+    100106: HandTip_R_end
+    100108: Hat
+    100110: Hat_end
+    100112: Head
+    100114: Hip
+    100116: Hip_L
+    100118: Hip_R
+    100120: LowerArm_L
+    100122: LowerArm_R
+    100124: LowerLeg_L
+    100126: LowerLeg_R
+    100128: LowerMouth
+    100130: LowerMouth_end
+    100132: Mouth_L
+    100134: Mouth_L_end
+    100136: Mouth_R
+    100138: Mouth_R_end
+    100140: Neck
+    100142: Nose
+    100144: Nose_end
+    100146: //RootNode
+    100148: Shoulder_L
+    100150: Shoulder_R
+    100152: Sphere.001
+    100154: Sphere.002
+    100156: Sphere.003
+    100158: Stomach
+    100160: Stomach_end
+    100162: Tail
+    100164: TailTip
+    100166: TailTip_end
+    100168: UpperArm_L
+    100170: UpperArm_R
+    100172: UpperLeg_L
+    100174: UpperLeg_R
+    100176: UpperMouth
+    100178: Backpack 1
+    100180: BackpackStretchBottom1_L
+    100182: BackpackStretchBottom1_L_end
+    100184: BackpackStretchBottom1_R
+    100186: BackpackStretchBottom1_R_end
+    100188: BackpackStretchBottom2_L
+    100190: BackpackStretchBottom2_L_end
+    100192: BackpackStretchBottom2_R
+    100194: BackpackStretchBottom2_R_end
+    100196: BackpackStretchBottom3_L
+    100198: BackpackStretchBottom3_L_end
+    100200: BackpackStretchBottom3_R
+    100202: BackpackStretchBottom3_R_end
+    100204: BackpackStretchBottom4_L
+    100206: BackpackStretchBottom4_L_end
+    100208: BackpackStretchBottom4_R
+    100210: BackpackStretchBottom4_R_end
+    100212: BackpackStretchIK_L
+    100214: BackpackStretchIK_L_end
+    100216: BackpackStretchIK_R
+    100218: BackpackStretchIK_R_end
+    100220: BackpackStretchIKBottom1_L
+    100222: BackpackStretchIKBottom1_L_end
+    100224: BackpackStretchIKBottom1_R
+    100226: BackpackStretchIKBottom1_R_end
+    100228: BackpackStretchIKBottom2_L
+    100230: BackpackStretchIKBottom2_R
+    100232: BackpackStretchIKBottom3_L
+    100234: BackpackStretchIKBottom3_R
+    100236: BackpackStretchIKBottom4_L
+    100238: BackpackStretchIKBottom4_R
+    100240: BackpackStretchIKTop1_L
+    100242: BackpackStretchIKTop1_L_end
+    100244: BackpackStretchIKTop1_R
+    100246: BackpackStretchIKTop1_R_end
+    100248: BackpackStretchIKTop2_L
+    100250: BackpackStretchIKTop2_R
+    100252: BackpackStretchIKTop3_L
+    100254: BackpackStretchIKTop3_R
+    100256: BackpackStretchIKTop4_L
+    100258: BackpackStretchIKTop4_R
+    100260: BackpackStretchTop1_L
+    100262: BackpackStretchTop1_L_end
+    100264: BackpackStretchTop1_R
+    100266: BackpackStretchTop1_R_end
+    100268: BackpackStretchTop2_L
+    100270: BackpackStretchTop2_R
+    100272: BackpackStretchTop3_L
+    100274: BackpackStretchTop3_R
+    100276: BackpackStretchTop4_L
+    100278: BackpackStretchTop4_R
+    100280: Hat 1
+    100282: LowerLegIK_L
+    100284: LowerLegIK_L_end
+    100286: LowerLegIK_R
+    100288: LowerLegIK_R_end
+    100290: Panda
+    100292: Sword
+    400000: Armature
+    400002: Backpack
+    400004: Backpack.001
+    400006: Backpack.001_end
+    400008: Backpack.001_L
+    400010: Backpack.001_L_end
+    400012: Backpack.001_R
+    400014: Backpack.001_R_end
+    400016: Backpack_L
+    400018: Backpack_L.001
+    400020: Backpack_L.002
+    400022: Backpack_L.003
+    400024: Backpack_L.004
+    400026: Backpack_L.005
+    400028: Backpack_L.006
+    400030: Backpack_L.007
+    400032: Backpack_L.007_end
+    400034: Backpack_R
+    400036: Backpack_R.001
+    400038: Backpack_R.002
+    400040: Backpack_R.003
+    400042: Backpack_R.004
+    400044: Backpack_R.005
+    400046: Backpack_R.006
+    400048: Backpack_R.007
+    400050: Backpack_R.007_end
+    400052: BackpackLid
+    400054: BackpackLidLower
+    400056: BackpackLidTip
+    400058: BackpackLidTip_end
+    400060: BackpackLidUpper
+    400062: Bone
+    400064: Chest
+    400066: Ear_L
+    400068: Ear_R
+    400070: EarTop_L
+    400072: EarTop_L_end
+    400074: EarTop_R
+    400076: EarTop_R_end
+    400078: Face
+    400080: Foot_L
+    400082: Foot_R
+    400084: FootTip_L
+    400086: FootTip_L_end
+    400088: FootTip_R
+    400090: FootTip_R_end
+    400092: HandMiddle_L
+    400094: HandMiddle_R
+    400096: HandStart_L
+    400098: HandStart_R
+    400100: HandTip_L
+    400102: HandTip_L_end
+    400104: HandTip_R
+    400106: HandTip_R_end
+    400108: Hat
+    400110: Hat_end
+    400112: Head
+    400114: Hip
+    400116: Hip_L
+    400118: Hip_R
+    400120: LowerArm_L
+    400122: LowerArm_R
+    400124: LowerLeg_L
+    400126: LowerLeg_R
+    400128: LowerMouth
+    400130: LowerMouth_end
+    400132: Mouth_L
+    400134: Mouth_L_end
+    400136: Mouth_R
+    400138: Mouth_R_end
+    400140: Neck
+    400142: Nose
+    400144: Nose_end
+    400146: //RootNode
+    400148: Shoulder_L
+    400150: Shoulder_R
+    400152: Sphere.001
+    400154: Sphere.002
+    400156: Sphere.003
+    400158: Stomach
+    400160: Stomach_end
+    400162: Tail
+    400164: TailTip
+    400166: TailTip_end
+    400168: UpperArm_L
+    400170: UpperArm_R
+    400172: UpperLeg_L
+    400174: UpperLeg_R
+    400176: UpperMouth
+    400178: Backpack 1
+    400180: BackpackStretchBottom1_L
+    400182: BackpackStretchBottom1_L_end
+    400184: BackpackStretchBottom1_R
+    400186: BackpackStretchBottom1_R_end
+    400188: BackpackStretchBottom2_L
+    400190: BackpackStretchBottom2_L_end
+    400192: BackpackStretchBottom2_R
+    400194: BackpackStretchBottom2_R_end
+    400196: BackpackStretchBottom3_L
+    400198: BackpackStretchBottom3_L_end
+    400200: BackpackStretchBottom3_R
+    400202: BackpackStretchBottom3_R_end
+    400204: BackpackStretchBottom4_L
+    400206: BackpackStretchBottom4_L_end
+    400208: BackpackStretchBottom4_R
+    400210: BackpackStretchBottom4_R_end
+    400212: BackpackStretchIK_L
+    400214: BackpackStretchIK_L_end
+    400216: BackpackStretchIK_R
+    400218: BackpackStretchIK_R_end
+    400220: BackpackStretchIKBottom1_L
+    400222: BackpackStretchIKBottom1_L_end
+    400224: BackpackStretchIKBottom1_R
+    400226: BackpackStretchIKBottom1_R_end
+    400228: BackpackStretchIKBottom2_L
+    400230: BackpackStretchIKBottom2_R
+    400232: BackpackStretchIKBottom3_L
+    400234: BackpackStretchIKBottom3_R
+    400236: BackpackStretchIKBottom4_L
+    400238: BackpackStretchIKBottom4_R
+    400240: BackpackStretchIKTop1_L
+    400242: BackpackStretchIKTop1_L_end
+    400244: BackpackStretchIKTop1_R
+    400246: BackpackStretchIKTop1_R_end
+    400248: BackpackStretchIKTop2_L
+    400250: BackpackStretchIKTop2_R
+    400252: BackpackStretchIKTop3_L
+    400254: BackpackStretchIKTop3_R
+    400256: BackpackStretchIKTop4_L
+    400258: BackpackStretchIKTop4_R
+    400260: BackpackStretchTop1_L
+    400262: BackpackStretchTop1_L_end
+    400264: BackpackStretchTop1_R
+    400266: BackpackStretchTop1_R_end
+    400268: BackpackStretchTop2_L
+    400270: BackpackStretchTop2_R
+    400272: BackpackStretchTop3_L
+    400274: BackpackStretchTop3_R
+    400276: BackpackStretchTop4_L
+    400278: BackpackStretchTop4_R
+    400280: Hat 1
+    400282: LowerLegIK_L
+    400284: LowerLegIK_L_end
+    400286: LowerLegIK_R
+    400288: LowerLegIK_R_end
+    400290: Panda
+    400292: Sword
+    2300000: Sword
+    3300000: Sword
+    4300000: Sphere.003
+    4300002: Sphere.001
+    4300004: Sphere.002
+    4300006: Sword
+    4300008: Backpack
+    4300010: Hat
+    4300012: Panda
+    7400000: PandaRun
+    7400002: Armature|CircleAction
+    7400004: Armature|CubeAction
+    7400006: Armature|Sphere.001Action
+    7400008: Sphere.003|CircleAction
+    7400010: Sphere.003|CubeAction
+    7400012: Sphere.003|Sphere.001Action
+    7400014: Sphere.001|CircleAction
+    7400016: Sphere.001|CubeAction
+    7400018: Sphere.001|Sphere.001Action
+    7400020: Sphere.002|CircleAction
+    7400022: Sphere.002|CubeAction
+    7400024: Sphere.002|Sphere.001Action
+    7400026: RunCycle
+    9500000: //RootNode
+    13700000: Sphere.001
+    13700002: Sphere.002
+    13700004: Sphere.003
+    13700006: Backpack
+    13700008: Hat
+    13700010: Panda
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nInbetween bone default rotation found in this file
+      is different from the one found in the source avatar:\n\t'Hip_R' : rotation
+      error = 1.800820 deg\n\nClip 'RunCycle' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Face' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\nClip 'Armature|Action' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation DOF
+      on avatar to improve retargeting quality.\n\t'Face' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\nClip 'Armature|Action.001'
+      has import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'Face' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Armature|CubeAction' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Face'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: RunCycle
+      takeName: RunCycle
+      firstFrame: 1
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Hip
+        weight: 1
+      - path: Armature/Bone/Hip/Chest
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack.001
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack.001/Backpack.001_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack.001_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack.001_L/Backpack.001_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack.001_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack.001_R/Backpack.001_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack_L/Backpack_L.001
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack_L/Backpack_L.001/Backpack_L.002
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack_L/Backpack_L.001/Backpack_L.002/Backpack_L.003
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack_L/Backpack_L.001/Backpack_L.002/Backpack_L.003/Backpack_L.004
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack_L/Backpack_L.001/Backpack_L.002/Backpack_L.003/Backpack_L.004/Backpack_L.005
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack_L/Backpack_L.001/Backpack_L.002/Backpack_L.003/Backpack_L.004/Backpack_L.005/Backpack_L.006
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack_L/Backpack_L.001/Backpack_L.002/Backpack_L.003/Backpack_L.004/Backpack_L.005/Backpack_L.006/Backpack_L.007
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack_L/Backpack_L.001/Backpack_L.002/Backpack_L.003/Backpack_L.004/Backpack_L.005/Backpack_L.006/Backpack_L.007/Backpack_L.007_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack_R/Backpack_R.001
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack_R/Backpack_R.001/Backpack_R.002
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack_R/Backpack_R.001/Backpack_R.002/Backpack_R.003
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack_R/Backpack_R.001/Backpack_R.002/Backpack_R.003/Backpack_R.004
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack_R/Backpack_R.001/Backpack_R.002/Backpack_R.003/Backpack_R.004/Backpack_R.005
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack_R/Backpack_R.001/Backpack_R.002/Backpack_R.003/Backpack_R.004/Backpack_R.005/Backpack_R.006
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack_R/Backpack_R.001/Backpack_R.002/Backpack_R.003/Backpack_R.004/Backpack_R.005/Backpack_R.006/Backpack_R.007
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/Backpack_R/Backpack_R.001/Backpack_R.002/Backpack_R.003/Backpack_R.004/Backpack_R.005/Backpack_R.006/Backpack_R.007/Backpack_R.007_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/BackpackLid
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/BackpackLid/BackpackLidUpper
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/BackpackLid/BackpackLidUpper/BackpackLidLower
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/BackpackLid/BackpackLidUpper/BackpackLidLower/BackpackLidTip
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Backpack/BackpackLid/BackpackLidUpper/BackpackLidLower/BackpackLidTip/BackpackLidTip_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L/EarTop_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_L/EarTop_L/EarTop_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R/EarTop_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Ear_R/EarTop_R/EarTop_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/LowerMouth
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/LowerMouth/LowerMouth_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_L/Mouth_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/Mouth_R/Mouth_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth/Nose
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Face/UpperMouth/Nose/Nose_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Hat
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Neck/Head/Hat/Hat_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L/HandTip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_L/UpperArm_L/LowerArm_L/HandStart_L/HandMiddle_L/HandTip_L/HandTip_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R/HandTip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Chest/Shoulder_R/UpperArm_R/LowerArm_R/HandStart_R/HandMiddle_R/HandTip_R/HandTip_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L/FootTip_L
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_L/UpperLeg_L/LowerLeg_L/Foot_L/FootTip_L/FootTip_L_end
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R/FootTip_R
+        weight: 1
+      - path: Armature/Bone/Hip/Hip_R/UpperLeg_R/LowerLeg_R/Foot_R/FootTip_R/FootTip_R_end
+        weight: 1
+      - path: Armature/Bone/Hip/Stomach
+        weight: 1
+      - path: Armature/Bone/Hip/Stomach/Stomach_end
+        weight: 1
+      - path: Armature/Bone/Hip/Tail
+        weight: 1
+      - path: Armature/Bone/Hip/Tail/TailTip
+        weight: 1
+      - path: Armature/Bone/Hip/Tail/TailTip/TailTip_end
+        weight: 1
+      - path: Sphere.001
+        weight: 1
+      - path: Sphere.002
+        weight: 1
+      - path: Sphere.003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Hip
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperLeg_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperLeg_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerLeg_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerLeg_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chest
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shoulder_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shoulder_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperArm_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperArm_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerArm_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerArm_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HandStart_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HandStart_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FootTip_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FootTip_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mouth_L
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mouth_R
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerMouth
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: PandaRig(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Armature
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106709}
+      scale: {x: 100, y: 100.000008, z: 100.000008}
+      transformModified: 1
+    - name: Bone
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 1, y: -3.55271368e-15, z: 7.54978942e-08, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hip
+      position: {x: 1.91242799e-09, y: -.00165436487, z: -.0126654385}
+      rotation: {x: .70710659, y: 0, z: 0, w: -.707106948}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Chest
+      position: {x: 1.44567514e-17, y: .00585769629, z: 0}
+      rotation: {x: .0871554017, y: 0, z: 0, w: -.99619472}
+      scale: {x: 1, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: Backpack 1
+      position: {x: -3.38615247e-10, y: .00106269203, z: -.00941795483}
+      rotation: {x: .149581864, y: 2.44043093e-07, z: 4.70237502e-08, w: .988749325}
+      scale: {x: .99999994, y: .99999994, z: 1.00000036}
+      transformModified: 1
+    - name: Backpack.001
+      position: {x: -5.57298596e-10, y: .00511333952, z: .000331075775}
+      rotation: {x: -.771180272, y: -1.40203881e-07, z: -1.75862638e-07, w: .636616826}
+      scale: {x: 1, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: Backpack.001_end
+      position: {x: -0, y: .00485623721, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Backpack.001_L
+      position: {x: 4.92941632e-10, y: .00478118565, z: -.00166221568}
+      rotation: {x: -.494777948, y: .580843508, z: .492063522, w: .419152945}
+      scale: {x: 1.00000036, y: 1.00000036, z: 1.00000024}
+      transformModified: 1
+    - name: Backpack.001_L_end
+      position: {x: -0, y: .00722065009, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Backpack.001_R
+      position: {x: 7.90964794e-10, y: .00478118565, z: -.00166221568}
+      rotation: {x: .49477759, y: .580843866, z: .492063582, w: -.419152856}
+      scale: {x: 1.00000012, y: .99999994, z: 1.00000048}
+      transformModified: 1
+    - name: Backpack.001_R_end
+      position: {x: -0, y: .00722065009, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackLid
+      position: {x: -6.44368794e-11, y: .0120297084, z: .000700330711}
+      rotation: {x: -.746681988, y: -1.57613897e-07, z: -1.75497703e-07, w: .665181279}
+      scale: {x: .999999821, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: BackpackLidUpper
+      position: {x: 1.45866527e-10, y: .00359487021, z: -5.45754952e-09}
+      rotation: {x: -.108747005, y: -1.51677781e-10, z: -4.66567691e-08, w: .994069517}
+      scale: {x: 1.00000012, y: 1, z: .999999702}
+      transformModified: 1
+    - name: BackpackLidLower
+      position: {x: -3.18011922e-10, y: .00303680915, z: -2.90572633e-09}
+      rotation: {x: .533126652, y: -9.0319368e-08, z: 4.41306405e-08, w: -.84603548}
+      scale: {x: .999999821, y: .999999821, z: .999999702}
+      transformModified: 1
+    - name: BackpackLidTip
+      position: {x: -2.25239521e-10, y: .00225533475, z: -9.68575442e-10}
+      rotation: {x: -.0687804222, y: 1.97524859e-08, z: -1.90709404e-08, w: .997631848}
+      scale: {x: .99999994, y: .999999583, z: 1.00000012}
+      transformModified: 1
+    - name: BackpackLidTip_end
+      position: {x: -0, y: .00306851976, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackStretchBottom4_L
+      position: {x: -.00580191938, y: .00103168364, z: .000666052685}
+      rotation: {x: -.290722728, y: .711071193, z: .604352593, w: .211225286}
+      scale: {x: .999999106, y: 1.00000036, z: .999999642}
+      transformModified: 1
+    - name: BackpackStretchBottom3_L
+      position: {x: -2.98023217e-10, y: .00571413012, z: -9.68575442e-10}
+      rotation: {x: -.0425182469, y: .106245853, z: .262724847, w: .958060384}
+      scale: {x: 1, y: .999999762, z: 1.00000012}
+      transformModified: 1
+    - name: BackpackStretchBottom2_L
+      position: {x: -7.45058015e-10, y: .0043321806, z: 1.19209287e-09}
+      rotation: {x: -.0290655456, y: .638851762, z: .242375776, w: .729573607}
+      scale: {x: 1.00000179, y: .999997139, z: 1.00000143}
+      transformModified: 1
+    - name: BackpackStretchBottom1_L
+      position: {x: 5.69969405e-09, y: .00435268553, z: 8.19563861e-10}
+      rotation: {x: -.290636927, y: .568338811, z: .264653385, w: .722827613}
+      scale: {x: .999998927, y: 1.00000119, z: 1.00000048}
+      transformModified: 1
+    - name: BackpackStretchBottom1_L_end
+      position: {x: -0, y: .00413006032, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackStretchBottom4_R
+      position: {x: .00670399051, y: .000513210951, z: .000237930566}
+      rotation: {x: .290722251, y: .711071491, z: .604352474, w: -.211225018}
+      scale: {x: .999999881, y: .999999285, z: 1.00000012}
+      transformModified: 1
+    - name: BackpackStretchBottom3_R
+      position: {x: -1.49011609e-10, y: .00571413012, z: 1.93715088e-09}
+      rotation: {x: -.0425180718, y: -.10624589, z: -.262724787, w: .958060384}
+      scale: {x: 1.00000012, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: BackpackStretchBottom2_R
+      position: {x: -7.91624155e-10, y: .00433218107, z: 1.4156103e-09}
+      rotation: {x: -.0290653501, y: -.638851643, z: -.242375568, w: .729573786}
+      scale: {x: 1.00000155, y: .999997914, z: 1.00000095}
+      transformModified: 1
+    - name: BackpackStretchBottom1_R
+      position: {x: 1.49011609e-10, y: .00435268413, z: -1.49011609e-10}
+      rotation: {x: -.290637285, y: -.568339288, z: -.264653385, w: .722827196}
+      scale: {x: .999998212, y: 1.00000215, z: .999999881}
+      transformModified: 1
+    - name: BackpackStretchBottom1_R_end
+      position: {x: -0, y: .00413006032, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackStretchIK_L
+      position: {x: -.00948108546, y: .00837585982, z: .0137736965}
+      rotation: {x: -2.29835834e-07, y: .763010085, z: .646386564, w: 1.54327338e-07}
+      scale: {x: .99999994, y: .999999702, z: 1}
+      transformModified: 1
+    - name: BackpackStretchIK_L_end
+      position: {x: -0, y: .00419264333, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackStretchIK_R
+      position: {x: .0103831412, y: .00785739906, z: .0133455712}
+      rotation: {x: -1.56593742e-07, y: .763010085, z: .646386564, w: 2.16374616e-07}
+      scale: {x: 1, y: .999999702, z: 1}
+      transformModified: 1
+    - name: BackpackStretchIK_R_end
+      position: {x: -0, y: .00419264333, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackStretchIKBottom4_L
+      position: {x: -.00580191938, y: .00103168364, z: .000666052685}
+      rotation: {x: -.290723056, y: .711070955, z: .604352593, w: .211225644}
+      scale: {x: 1.00000036, y: 1.0000006, z: 1.00000083}
+      transformModified: 1
+    - name: BackpackStretchIKBottom3_L
+      position: {x: 1.19209287e-09, y: .00571412919, z: -8.75443218e-10}
+      rotation: {x: -.0425182879, y: .10624598, z: .262724817, w: .958060384}
+      scale: {x: .99999994, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: BackpackStretchIKBottom2_L
+      position: {x: 7.45058043e-11, y: .0043321806, z: -1.93715088e-09}
+      rotation: {x: -.0290655028, y: .638851821, z: .242376268, w: .729573369}
+      scale: {x: .999998391, y: .999998569, z: .999998629}
+      transformModified: 1
+    - name: BackpackStretchIKBottom1_L
+      position: {x: -1.88127158e-09, y: .00435268041, z: 9.31322554e-12}
+      rotation: {x: -.290636241, y: .568339229, z: .264653713, w: .722827435}
+      scale: {x: .999997795, y: .99999696, z: .999997556}
+      transformModified: 1
+    - name: BackpackStretchIKBottom1_L_end
+      position: {x: -0, y: .00413006032, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackStretchIKBottom4_R
+      position: {x: .00670399051, y: .000513210951, z: .000237930566}
+      rotation: {x: .290722638, y: .711071074, z: .604352534, w: -.211225644}
+      scale: {x: .999999821, y: .999999583, z: .999999762}
+      transformModified: 1
+    - name: BackpackStretchIKBottom3_R
+      position: {x: -1.34110445e-09, y: .00571413012, z: 3.72529008e-10}
+      rotation: {x: -.0425180309, y: -.106245913, z: -.262724757, w: .958060443}
+      scale: {x: 1.00000072, y: 1.00000072, z: 1.00000131}
+      transformModified: 1
+    - name: BackpackStretchIKBottom2_R
+      position: {x: 1.49942936e-09, y: .0043321792, z: -2.94297919e-09}
+      rotation: {x: -.0290657207, y: -.638851702, z: -.242376402, w: .729573429}
+      scale: {x: .999999523, y: .999999464, z: .999999285}
+      transformModified: 1
+    - name: BackpackStretchIKBottom1_R
+      position: {x: 1.93715088e-09, y: .00435268553, z: 1.49011609e-10}
+      rotation: {x: -.290636271, y: -.568339229, z: -.264653563, w: .722827613}
+      scale: {x: .999999225, y: .999998331, z: .999998212}
+      transformModified: 1
+    - name: BackpackStretchIKBottom1_R_end
+      position: {x: -0, y: .00413006032, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackStretchIKTop4_L
+      position: {x: -.00625559362, y: .0108037693, z: .00014466673}
+      rotation: {x: -.186933905, y: .733262241, z: .469334126, w: .455090821}
+      scale: {x: .999998868, y: .999999285, z: .999999642}
+      transformModified: 1
+    - name: BackpackStretchIKTop3_L
+      position: {x: -0, y: .00541640818, z: -2.98023206e-09}
+      rotation: {x: -.152706012, y: .204430372, z: .298649549, w: .91961813}
+      scale: {x: 1.00000048, y: 1.00000012, z: 1.00000036}
+      transformModified: 1
+    - name: BackpackStretchIKTop2_L
+      position: {x: -8.94069652e-10, y: .00515293423, z: -3.42726691e-09}
+      rotation: {x: -.259023488, y: -.00131529605, z: .293543726, w: .920183241}
+      scale: {x: 1.00000036, y: 1.00000083, z: 1.00000072}
+      transformModified: 1
+    - name: BackpackStretchIKTop1_L
+      position: {x: -1.66706737e-09, y: .00492004212, z: 6.25848751e-09}
+      rotation: {x: -.396936774, y: .0917609483, z: -.0728477612, w: .910337508}
+      scale: {x: .999999881, y: 1.00000191, z: 1.00000215}
+      transformModified: 1
+    - name: BackpackStretchIKTop1_L_end
+      position: {x: -0, y: .0045168479, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackStretchIKTop4_R
+      position: {x: .00715766661, y: .010285289, z: -.000283454341}
+      rotation: {x: .186933741, y: .733262599, z: .469334096, w: -.455090374}
+      scale: {x: .999999881, y: .999999464, z: 1}
+      transformModified: 1
+    - name: BackpackStretchIKTop3_R
+      position: {x: 2.38418574e-09, y: .00541641098, z: -3.42726691e-09}
+      rotation: {x: -.152706176, y: -.204430252, z: -.298649609, w: .91961813}
+      scale: {x: 1.00000036, y: 1.0000006, z: .999999881}
+      transformModified: 1
+    - name: BackpackStretchIKTop2_R
+      position: {x: -4.88944336e-11, y: .0051529347, z: 1.4156103e-09}
+      rotation: {x: -.259023398, y: .00131507812, z: -.293543637, w: .920183301}
+      scale: {x: 1.00000012, y: 1.00000048, z: 1.00000036}
+      transformModified: 1
+    - name: BackpackStretchIKTop1_R
+      position: {x: -0, y: .00492004491, z: 8.19563861e-10}
+      rotation: {x: -.396936834, y: -.0917612463, z: .0728473216, w: .910337508}
+      scale: {x: .999998987, y: .999998689, z: .999999106}
+      transformModified: 1
+    - name: BackpackStretchIKTop1_R_end
+      position: {x: -0, y: .0045168479, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackStretchTop4_L
+      position: {x: -.00625559362, y: .0108037693, z: .00014466673}
+      rotation: {x: -.186933681, y: .73326242, z: .469334036, w: .455090731}
+      scale: {x: 1.00000072, y: .999998808, z: 1.00000024}
+      transformModified: 1
+    - name: BackpackStretchTop3_L
+      position: {x: -1.7881393e-09, y: .00541641284, z: 1.34110445e-09}
+      rotation: {x: -.152706221, y: .204430178, z: .298648983, w: .919618368}
+      scale: {x: .999999881, y: .999999225, z: 1.00000024}
+      transformModified: 1
+    - name: BackpackStretchTop2_L
+      position: {x: -2.98023217e-10, y: .00515293423, z: 2.08616258e-09}
+      rotation: {x: -.259023488, y: -.00131518568, z: .293544054, w: .920183182}
+      scale: {x: .99999994, y: 1.00000095, z: .999999821}
+      transformModified: 1
+    - name: BackpackStretchTop1_L
+      position: {x: -7.54371288e-10, y: .00492004398, z: 2.49594434e-09}
+      rotation: {x: -.396937013, y: .0917609185, z: -.0728478208, w: .910337389}
+      scale: {x: .999999225, y: 1.00000167, z: .999999166}
+      transformModified: 1
+    - name: BackpackStretchTop1_L_end
+      position: {x: -0, y: .0045168479, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BackpackStretchTop4_R
+      position: {x: .00715766661, y: .010285289, z: -.000283454341}
+      rotation: {x: .186933473, y: .733262897, z: .469334036, w: -.455090225}
+      scale: {x: .99999994, y: .999999344, z: 1.00000036}
+      transformModified: 1
+    - name: BackpackStretchTop3_R
+      position: {x: 5.96046434e-10, y: .00541640725, z: -1.49011609e-10}
+      rotation: {x: -.152705833, y: -.204430178, z: -.298649669, w: .919618189}
+      scale: {x: 1, y: .999999702, z: 1.00000012}
+      transformModified: 1
+    - name: BackpackStretchTop2_R
+      position: {x: 1.02212649e-09, y: .00515293609, z: -3.98606037e-09}
+      rotation: {x: -.259023756, y: .00131533912, z: -.293543518, w: .920183241}
+      scale: {x: .999999881, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: BackpackStretchTop1_R
+      position: {x: 1.49011609e-10, y: .00492004398, z: 1.11758702e-09}
+      rotation: {x: -.396936417, y: -.0917610899, z: .0728471801, w: .910337687}
+      scale: {x: 1.00000095, y: .999997973, z: 1.00000083}
+      transformModified: 1
+    - name: BackpackStretchTop1_R_end
+      position: {x: -0, y: .0045168479, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Neck
+      position: {x: -2.4900651e-10, y: .00650331192, z: 1.52736901e-09}
+      rotation: {x: .229712516, y: 1.21487016e-08, z: 4.6706905e-09, w: .973258615}
+      scale: {x: 1, y: .999999702, z: 1.00000012}
+      transformModified: 1
+    - name: Head
+      position: {x: -2.63302262e-11, y: .00481571676, z: -3.16649679e-10}
+      rotation: {x: -.114609435, y: -1.27769695e-07, z: 1.50484301e-08, w: .993410647}
+      scale: {x: 1, y: .999999642, z: 1.00000036}
+      transformModified: 1
+    - name: Ear_L
+      position: {x: -.0107286917, y: .0153118419, z: .00136215938}
+      rotation: {x: -.218369618, y: .690783501, z: .151056468, w: .672543585}
+      scale: {x: .999999642, y: 1, z: .999999881}
+      transformModified: 1
+    - name: EarTop_L
+      position: {x: 9.68575442e-10, y: .0036880793, z: 1.91852445e-09}
+      rotation: {x: -1.49011576e-08, y: 7.07805015e-08, z: 7.45057918e-08, w: 1}
+      scale: {x: 1.00000024, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: EarTop_L_end
+      position: {x: -0, y: .00368808256, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ear_R
+      position: {x: .0107286917, y: .0153118391, z: .0013621531}
+      rotation: {x: -.218369722, y: -.690783381, z: -.151056513, w: .672543705}
+      scale: {x: .99999994, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: EarTop_R
+      position: {x: -5.96046434e-10, y: .00368808955, z: 3.72529022e-11}
+      rotation: {x: 5.96046235e-08, y: -5.96046235e-08, z: -1.34110408e-07, w: 1}
+      scale: {x: .999999642, y: 1.00000012, z: .999999642}
+      transformModified: 1
+    - name: EarTop_R_end
+      position: {x: -0, y: .00368808256, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Face
+      position: {x: 1.50874258e-09, y: .00668766722, z: .00533753261}
+      rotation: {x: .820358813, y: -2.06924142e-07, z: -4.95949735e-07, w: .571849227}
+      scale: {x: 1, y: .999999166, z: 1.00000012}
+      transformModified: 1
+    - name: LowerMouth
+      position: {x: 8.19563861e-10, y: .00517767109, z: .000694409886}
+      rotation: {x: 4.74429704e-08, y: .997632742, z: .0687679499, w: -3.16690858e-07}
+      scale: {x: 1.0000006, y: 1.00000048, z: 1}
+      transformModified: 1
+    - name: LowerMouth_end
+      position: {x: -0, y: .00449508149, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mouth_L
+      position: {x: -.00369322114, y: .00512168463, z: -.000238726207}
+      rotation: {x: .0330578722, y: .204560816, z: -.0470285453, w: .977164507}
+      scale: {x: .999999523, y: .999999762, z: .999999583}
+      transformModified: 1
+    - name: Mouth_L_end
+      position: {x: -0, y: .00374726462, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mouth_R
+      position: {x: .00369322021, y: .00512168463, z: -.000238735156}
+      rotation: {x: .0330579728, y: -.204559758, z: .0470285192, w: .977164686}
+      scale: {x: .999999881, y: .999999404, z: .999999523}
+      transformModified: 1
+    - name: Mouth_R_end
+      position: {x: -0, y: .00374726462, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UpperMouth
+      position: {x: -1.04308129e-09, y: .00526810577, z: -.00112532068}
+      rotation: {x: -.07305713, y: 1.21470862e-07, z: 7.69473374e-08, w: .997327805}
+      scale: {x: 1, y: 1.00000024, z: 1.00000048}
+      transformModified: 1
+    - name: Nose
+      position: {x: -2.52083319e-05, y: .00189698767, z: -.00124230934}
+      rotation: {x: -.0010006259, y: .988340497, z: -.152256966, w: -.000154532827}
+      scale: {x: .999999523, y: .999999702, z: .999999464}
+      transformModified: 1
+    - name: Nose_end
+      position: {x: -0, y: .00236695167, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hat 1
+      position: {x: -.000495150452, y: .0221263245, z: -.00170254312}
+      rotation: {x: -.11849466, y: -.0144130709, z: .0256523881, w: .992518663}
+      scale: {x: .99999994, y: .999999702, z: .999999702}
+      transformModified: 1
+    - name: Hat_end
+      position: {x: -0, y: .00699039456, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Shoulder_L
+      position: {x: -2.4900651e-10, y: .00650331192, z: 1.52736901e-09}
+      rotation: {x: -.469254971, y: .462769628, z: .521005273, w: .542399824}
+      scale: {x: .999999881, y: .999999642, z: .999999464}
+      transformModified: 1
+    - name: UpperArm_L
+      position: {x: 1.49011609e-10, y: .00964802317, z: -8.19563861e-10}
+      rotation: {x: -.0395079665, y: .00141528237, z: .0159180146, w: .999091446}
+      scale: {x: .999999404, y: 1.00000107, z: .999999464}
+      transformModified: 1
+    - name: LowerArm_L
+      position: {x: 1.19209287e-09, y: .00436550146, z: 1.34110445e-09}
+      rotation: {x: -.0049341172, y: .000509947538, z: .00197908282, w: .999985814}
+      scale: {x: 1.00000036, y: 1.00000048, z: 1.00000095}
+      transformModified: 1
+    - name: HandStart_L
+      position: {x: -5.96046434e-10, y: .00400924776, z: 1.19209287e-09}
+      rotation: {x: -.0608661398, y: .00282666064, z: .000252440543, w: .998141944}
+      scale: {x: 1.0000006, y: 1.00000107, z: 1.00000072}
+      transformModified: 1
+    - name: HandMiddle_L
+      position: {x: -5.96046434e-10, y: .00396313472, z: -1.19209287e-09}
+      rotation: {x: -.0920837, y: .00477364566, z: .0127204033, w: .995658636}
+      scale: {x: .99999994, y: .99999994, z: .999999762}
+      transformModified: 1
+    - name: HandTip_L
+      position: {x: -8.19563861e-10, y: .0034076157, z: -1.19209287e-09}
+      rotation: {x: -.155326858, y: .00951599795, z: -.00334125664, w: .987811685}
+      scale: {x: .999999106, y: .999999166, z: .99999851}
+      transformModified: 1
+    - name: HandTip_L_end
+      position: {x: -0, y: .00260166964, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Shoulder_R
+      position: {x: -2.4900651e-10, y: .00650331192, z: 1.52736901e-09}
+      rotation: {x: -.469254971, y: -.462769628, z: -.521005273, w: .542399824}
+      scale: {x: .999999762, y: .999999702, z: .999999464}
+      transformModified: 1
+    - name: UpperArm_R
+      position: {x: 1.49011609e-10, y: .00964802317, z: 2.86847346e-09}
+      rotation: {x: .0383723639, y: -.0644715801, z: .0184887927, w: -.997010112}
+      scale: {x: 1.00000012, y: 1.00000024, z: .999999821}
+      transformModified: 1
+    - name: LowerArm_R
+      position: {x: -7.4505796e-10, y: .00436550193, z: -5.98840399e-09}
+      rotation: {x: -.00479239225, y: -.0664513856, z: -.00230020285, w: .997775495}
+      scale: {x: 1.00000024, y: 1.00000048, z: 1.00000036}
+      transformModified: 1
+    - name: HandStart_R
+      position: {x: -4.02331324e-09, y: .00400924683, z: 2.11410223e-09}
+      rotation: {x: -.060866002, y: -.00282692933, z: -.000252395897, w: .998141944}
+      scale: {x: .999999881, y: .999999523, z: .999999583}
+      transformModified: 1
+    - name: HandMiddle_R
+      position: {x: 1.8952413e-09, y: .00396313611, z: 1.49011609e-10}
+      rotation: {x: -.0920834094, y: -.0047737062, z: -.0127203315, w: .995658696}
+      scale: {x: 1.00000024, y: .999999583, z: 1}
+      transformModified: 1
+    - name: HandTip_R
+      position: {x: -3.53902574e-09, y: .00340761477, z: -2.38418574e-09}
+      rotation: {x: -.155326754, y: -.00951588154, z: .00334121287, w: .987811685}
+      scale: {x: .999999583, y: .999999762, z: .999999285}
+      transformModified: 1
+    - name: HandTip_R_end
+      position: {x: -0, y: .00260166964, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Sword
+      position: {x: .000601637352, y: .00528883934, z: -.00138006441}
+      rotation: {x: .225741491, y: -.443155438, z: .0284317806, w: .867090404}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Hip_L
+      position: {x: 1.20117874e-10, y: 1.82255862e-05, z: .00050381117}
+      rotation: {x: -.517335534, y: .501901567, z: .531238854, w: .44524616}
+      scale: {x: 1.00000048, y: .99999994, z: 1.00000024}
+      transformModified: 1
+    - name: UpperLeg_L
+      position: {x: 7.45058043e-11, y: .00645999797, z: 1.05850628e-09}
+      rotation: {x: .489869207, y: -.574129999, z: .452210605, w: -.475298375}
+      scale: {x: 1.00000048, y: .999999881, z: 1.0000006}
+      transformModified: 1
+    - name: LowerLeg_L
+      position: {x: 3.58314073e-10, y: .00477827108, z: -1.74339987e-09}
+      rotation: {x: .172842562, y: -5.03013762e-05, z: .000287210365, w: .98494947}
+      scale: {x: .999999881, y: 1, z: .999999583}
+      transformModified: 1
+    - name: Foot_L
+      position: {x: 7.0722303e-11, y: .00707255071, z: 6.81438725e-11}
+      rotation: {x: -.020716073, y: .63113308, z: -.774965525, w: -.0258912724}
+      scale: {x: .999999821, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: FootTip_L
+      position: {x: 1.8626449e-10, y: .00588131044, z: -4.72562059e-11}
+      rotation: {x: -.00301429606, y: -.000183703363, z: 4.73111839e-07, w: .99999547}
+      scale: {x: .999999821, y: .999999821, z: .999999404}
+      transformModified: 1
+    - name: FootTip_L_end
+      position: {x: -0, y: .00558008859, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hip_R
+      position: {x: 1.20117874e-10, y: 1.82255862e-05, z: .00050381117}
+      rotation: {x: .517335653, y: .501901448, z: .531238675, w: -.44524622}
+      scale: {x: 1.00000072, y: 1.00000036, z: 1.00000024}
+      transformModified: 1
+    - name: UpperLeg_R
+      position: {x: -1.86264511e-11, y: .00645999704, z: 9.04110398e-10}
+      rotation: {x: -.489869207, y: -.574129999, z: .452210575, w: .475298434}
+      scale: {x: 1.0000006, y: 1.00000107, z: .999999702}
+      transformModified: 1
+    - name: LowerLeg_R
+      position: {x: -9.18516874e-10, y: .00477827247, z: 1.75088644e-09}
+      rotation: {x: .172842607, y: 5.02050752e-05, z: -.00028714459, w: .98494947}
+      scale: {x: .999999821, y: 1, z: 1.00000095}
+      transformModified: 1
+    - name: Foot_R
+      position: {x: 2.74740147e-10, y: .00707254745, z: -6.05359651e-10}
+      rotation: {x: .0207159799, y: .631133139, z: -.774965465, w: .0258912947}
+      scale: {x: 1.00000024, y: .999999881, z: .999999166}
+      transformModified: 1
+    - name: FootTip_R
+      position: {x: -8.94069652e-10, y: .00588130997, z: 2.08616258e-09}
+      rotation: {x: -.00301426603, y: .000183757365, z: -4.86150327e-07, w: .99999547}
+      scale: {x: 1.00000119, y: 1.00000024, z: .999999881}
+      transformModified: 1
+    - name: FootTip_R_end
+      position: {x: -0, y: .00558008859, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Stomach
+      position: {x: 8.79522288e-10, y: .00441616448, z: .00368898385}
+      rotation: {x: 4.49994531e-07, y: .579864442, z: .814713061, w: 1.82029126e-07}
+      scale: {x: 1.00000048, y: .999999881, z: .999999702}
+      transformModified: 1
+    - name: Stomach_end
+      position: {x: -0, y: .0076361727, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Tail
+      position: {x: -2.01221173e-09, y: .00106981187, z: -.00843982678}
+      rotation: {x: -.446243942, y: 1.06681775e-07, z: 5.31964375e-08, w: .894911408}
+      scale: {x: 1, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: TailTip
+      position: {x: 1.01643951e-22, y: .00212945999, z: 0}
+      rotation: {x: -1.7881392e-07, y: -4.38920649e-14, z: -7.67316034e-14, w: 1}
+      scale: {x: 1, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: TailTip_end
+      position: {x: -0, y: .00212945952, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerLegIK_L
+      position: {x: -.00779955741, y: -.0063641523, z: .0157740824}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerLegIK_L_end
+      position: {x: -0, y: .00384698529, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerLegIK_R
+      position: {x: .00895069167, y: .0116228554, z: .0224091318}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerLegIK_R_end
+      position: {x: -0, y: .00384698529, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Backpack
+      position: {x: -1.52350951e-10, y: .001062689, z: -.00941795204}
+      rotation: {x: .14958185, y: 2.45054792e-07, z: 3.70805573e-08, w: .988749385}
+      scale: {x: 1, y: .999999821, z: .999999762}
+      transformModified: 1
+    - name: Hat
+      position: {x: -.000495150278, y: .0221263245, z: -.00170254393}
+      rotation: {x: -.0493140817, y: -1.12326966e-08, z: 8.56792148e-09, w: .99878335}
+      scale: {x: .999999821, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: Panda
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106709}
+      scale: {x: 100, y: 100.000008, z: 100.000008}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

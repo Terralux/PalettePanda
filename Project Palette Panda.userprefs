@@ -1,14 +1,9 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GrabableObject.cs">
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Gameplay\BaseCharacterController.cs">
     <Files>
-      <File FileName="Assets\GrabableObject.cs" Line="22" Column="5" />
-      <File FileName="Assets\Scripts\Gameplay\BaseCharacterController.cs" Line="84" Column="5" />
-      <File FileName="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" Line="1" Column="1" />
-      <File FileName="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Gameplay\PlayerController.cs" Line="1" Column="1" />
-      <File FileName="..\Project KM\Unity Project\Assets\Scripts\CharacterMovement.cs" Line="1" Column="1" />
-      <File FileName="..\Project KM\Unity Project\Assets\Scripts\AI\BasicMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Gameplay\BaseCharacterController.cs" Line="153" Column="7" />
+      <File FileName="..\Random Terrain maker\Assets\LandscapeGeneration.cs" Line="443" Column="112" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
