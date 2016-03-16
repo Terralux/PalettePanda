@@ -1,6 +1,12 @@
 # =============== 
 # Unity generated
 # ===============
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools*
 Temp/
 /Library/
 /Library_ANDROID/
